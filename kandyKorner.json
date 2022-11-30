@@ -1,0 +1,320 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mason",
+      "email": "mason@mail.com",
+      "isStaff": false
+    },
+    {
+      "id": 2,
+      "name": "Jeff",
+      "email": "jeff@mail.com",
+      "isStaff": false
+    },
+    {
+      "id": 3,
+      "name": "Annie",
+      "email": "annie@mail.com",
+      "isStaff": false
+    },
+    {
+      "id": 4,
+      "name": "Sarah",
+      "email": "sarah@mail.com",
+      "isStaff": true
+    },
+    {
+      "id": 5,
+      "name": "Albert",
+      "email": "albert@mail.com",
+      "isStaff": true
+    },
+    {
+      "name": "Barney",
+      "email": "bbbbbbbbbbbb",
+      "isStaff": true,
+      "id": 7
+    },
+    {
+      "name": "Samson",
+      "email": "gsdfgawasdfasdf",
+      "isStaff": true,
+      "id": 8
+    },
+    {
+      "name": "Jake",
+      "email": "jjjajajajajajajaa",
+      "isStaff": true,
+      "id": 9
+    },
+    {
+      "name": "Martin",
+      "email": ".comcocmcomcomcomc",
+      "isStaff": true,
+      "id": 10
+    }
+  ],
+  "customers": [
+    {
+      "userId": 1,
+      "loyaltyNumber": "111261",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "loyaltyNumber": 44000
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "loyaltyNumber": 232323
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "userId": 4,
+      "storeId": 1,
+      "startDate": "Fri Apr 29 2022 14:02:20 GMT-0500 (Central Daylight Time)",
+      "payRate": 17
+    },
+    {
+      "id": 2,
+      "userId": 5,
+      "storeId": 2,
+      "startDate": "Sat Apr 30 2022 14:02:20 GMT-0500 (Central Daylight Time)",
+      "payRate": 17
+    },
+    {
+      "storeId": 3,
+      "startDate": "2022-10-19",
+      "payRate": "9",
+      "userId": 7,
+      "id": 4
+    },
+    {
+      "storeId": 2,
+      "startDate": "2022-10-21",
+      "payRate": "16",
+      "userId": 8,
+      "id": 5
+    },
+    {
+      "storeId": 1,
+      "startDate": "2022-11-10",
+      "payRate": "4",
+      "userId": 9,
+      "id": 6
+    },
+    {
+      "storeId": 2,
+      "startDate": "2022-11-17",
+      "payRate": "2",
+      "userId": 10,
+      "id": 7
+    }
+  ],
+  "stores": [
+    {
+      "id": 1,
+      "address": "101 Road Street",
+      "sqFootage": 2500
+    },
+    {
+      "id": 2,
+      "address": "202 Main Avenue",
+      "sqFootage": 1900
+    },
+    {
+      "id": 3,
+      "address": "303 Second Drive",
+      "sqFootage": 1800
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Gummy Bears",
+      "productTypesId": 1,
+      "price": 1.5
+    },
+    {
+      "id": 2,
+      "name": "Gummy Worms",
+      "productTypesId": 1,
+      "price": 1.5
+    },
+    {
+      "id": 3,
+      "name": "Milk Chocolate Bar",
+      "productTypesId": 2,
+      "price": 2
+    },
+    {
+      "id": 4,
+      "name": "Milk Chocolate Bar With Almonds",
+      "productTypesId": 2,
+      "price": 3.5
+    },
+    {
+      "id": 5,
+      "name": "Dark Chocolate Bar",
+      "productTypesId": 2,
+      "price": 3
+    },
+    {
+      "id": 6,
+      "name": "White Chocolate Bar",
+      "productTypesId": 2,
+      "price": 4
+    },
+    {
+      "id": 7,
+      "name": "Caramel Pop",
+      "productTypesId": 3,
+      "price": 4
+    },
+    {
+      "id": 8,
+      "name": "Caramel Pop With Nuts",
+      "productTypesId": 3,
+      "price": 5
+    },
+    {
+      "id": 9,
+      "name": "Banana Taffy",
+      "productTypesId": 4,
+      "price": 1
+    },
+    {
+      "id": 10,
+      "name": "Raspberry Taffy",
+      "productTypesId": 4,
+      "price": 1.5
+    },
+    {
+      "name": "asdfasdf",
+      "productTypesId": 2,
+      "price": 1,
+      "id": 11
+    }
+  ],
+  "productTypes": [
+    {
+      "id": 1,
+      "type": "Gummy"
+    },
+    {
+      "id": 2,
+      "type": "Chocolate"
+    },
+    {
+      "id": 3,
+      "type": "Caramel"
+    },
+    {
+      "id": 4,
+      "type": "Taffy"
+    }
+  ],
+  "purchases": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "storeId": 1,
+      "productId": 1,
+      "productCount": 3
+    },
+    {
+      "id": 2,
+      "customerId": 2,
+      "storeId": 2,
+      "productId": 5,
+      "productCount": 1
+    },
+    {
+      "id": 3,
+      "customerId": 3,
+      "storeId": 3,
+      "productId": 7,
+      "productCount": 5
+    },
+    {
+      "userId": 1,
+      "productId": 9,
+      "id": 4
+    },
+    {
+      "customerId": 1,
+      "productId": 9,
+      "id": 5
+    },
+    {
+      "customerId": 3,
+      "productId": 8,
+      "id": 6
+    },
+    {
+      "customerId": 3,
+      "productId": 9,
+      "id": 7
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 8
+    },
+    {
+      "customerId": 3,
+      "productId": 4,
+      "id": 9
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 10
+    },
+    {
+      "customerId": 3,
+      "productId": 10,
+      "id": 11
+    },
+    {
+      "customerId": 3,
+      "productId": 10,
+      "id": 12
+    },
+    {
+      "customerId": 3,
+      "productId": 10,
+      "id": 13
+    },
+    {
+      "customerId": 3,
+      "productId": 1,
+      "id": 14
+    },
+    {
+      "customerId": 3,
+      "productId": 8,
+      "id": 15
+    },
+    {
+      "customerId": 3,
+      "productId": 11,
+      "id": 16
+    },
+    {
+      "customerId": 3,
+      "productId": 11,
+      "id": 17
+    },
+    {
+      "customerId": 3,
+      "productId": 11,
+      "id": 18
+    }
+  ]
+}

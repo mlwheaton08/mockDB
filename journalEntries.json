@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "date": "2022-09-24T14:17:43.270Z",
+      "mood": "Excited",
+      "concept": "Tacos, Beans, Rice",
+      "entry": "Today we covered our tacos with beans and rice. It was a grand ol' time. Very delicious and encouraging. Morale +1",
+      "id": 1
+    },
+    {
+      "date": "2022-09-24T14:20:07.857Z",
+      "mood": "Excited",
+      "concept": "HTML, CSS, JS",
+      "entry": "Today we worked on the three front-end dev languages. My Daily Journal is looking better and better.",
+      "id": 2
+    },
+    {
+      "date": "2022-09-24T14:25:27.538Z",
+      "mood": "Overwhelmed",
+      "concept": "JS",
+      "entry": "Today we tackled a huge project that gave us practice with API's. I'm almost finish, but this last part may take a while!",
+      "id": 3
+    },
+    {
+      "date": "2022-09-29T03:32:38.503Z",
+      "mood": "Excited",
+      "concept": "asdfasdfasd",
+      "entry": "fasdfasdfasdf",
+      "id": 4
+    },
+    {
+      "date": "2022-09-29T03:32:41.295Z",
+      "mood": "Excited",
+      "concept": "asdfasdfasdf",
+      "entry": "asdfasdfasdf",
+      "id": 5
+    },
+    {
+      "date": "2022-09-29T03:32:44.339Z",
+      "mood": "Excited",
+      "concept": "asdfasdfasdf",
+      "entry": "asdfasdfasdf",
+      "id": 6
+    },
+    {
+      "date": "2022-09-29T03:32:49.762Z",
+      "mood": "Excited",
+      "concept": "asdfasdfasdfasdf",
+      "entry": "asdfasdfasdfasd",
+      "id": 7
+    },
+    {
+      "date": "2022-09-29T03:32:53.354Z",
+      "mood": "Excited",
+      "concept": "asdfasdf",
+      "entry": "asdfadsfasdf",
+      "id": 8
+    }
+  ]
+}

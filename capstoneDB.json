@@ -1,0 +1,1218 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullName": "Dion Stoade",
+        "email": "dstoade0@cornell.edu",
+        "isStaff": false
+      },
+      {
+        "id": 2,
+        "fullName": "Windy Thorneloe",
+        "email": "wthorneloe1@usa.gov",
+        "isStaff": false
+      },
+      {
+        "id": 3,
+        "fullName": "Hillie Phillpotts",
+        "email": "hphillpotts2@rakuten.co.jp",
+        "isStaff": false
+      },
+      {
+        "id": 4,
+        "fullName": "Helenelizabeth Passfield",
+        "email": "hpassfield7@netvibes.com",
+        "isStaff": true
+      },
+      {
+        "id": 5,
+        "fullName": "Franchot Slator",
+        "email": "fslator8@51.la",
+        "isStaff": true
+      },
+      {
+        "id": 6,
+        "fullName": "Renaud Erbe",
+        "email": "rerbe9@psu.edu",
+        "isStaff": true
+      },
+      {
+        "email": "jeremy@bakker.com",
+        "fullName": "Jeremy Bakker",
+        "isStaff": true,
+        "id": 7
+      },
+      {
+        "fullName": "Holden D Reed",
+        "email": "holdendreed@hotmail.com",
+        "isStaff": true,
+        "id": 8
+      }
+    ],
+    "comments": [],
+    "favorites": [],
+    "savedForLater": [],
+    "preferences": [],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Places and infrastructure"
+      },
+      {
+        "id": 2,
+        "name": "History"
+      },
+      {
+        "id": 3,
+        "name": "Mathematics and numbers"
+      },
+      {
+        "id": 4,
+        "name": "Language"
+      },
+      {
+        "id": 5,
+        "name": "Science"
+      },
+      {
+        "id": 6,
+        "name": "Technology, inventions and products"
+      },
+      {
+        "id": 7,
+        "name": "Popular culture, entertainment and the arts"
+      },
+      {
+        "id": 8,
+        "name": "Food"
+      },
+      {
+        "id": 9,
+        "name": "Sports"
+      },
+      {
+        "id": 10,
+        "name": "Folklore"
+      },
+      {
+        "id": 11,
+        "name": "Society, economy and law"
+      },
+      {
+        "id": 12,
+        "name": "Religion and spirituality"
+      },
+      {
+        "id": 13,
+        "name": "Military"
+      },
+      {
+        "id": 14,
+        "name": "Death"
+      }
+    ],
+    "subCategories": [
+      {
+        "id": 1,
+        "categoriesId": 1,
+        "name": "Places and infrastructure - General"
+      },
+      {
+        "id": 2,
+        "categoriesId": 1,
+        "name": "Africa"
+      },
+      {
+        "id": 3,
+        "categoriesId": 1,
+        "name": "Antarctica"
+      },
+      {
+        "id": 4,
+        "categoriesId": 1,
+        "name": "Asia"
+      },
+      {
+        "id": 5,
+        "categoriesId": 1,
+        "name": "Europe"
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "name": "North America"
+      },
+      {
+        "id": 7,
+        "categoriesId": 1,
+        "name": "Oceania"
+      },
+      {
+        "id": 8,
+        "categoriesId": 1,
+        "name": "South America"
+      },
+      {
+        "id": 9,
+        "categoriesId": 3,
+        "name": "Mathematics and numbers - General"
+      },
+      {
+        "id": 10,
+        "categoriesId": 3,
+        "name": "Dates and timekeeping"
+      },
+      {
+        "id": 11,
+        "categoriesId": 4,
+        "name": "Language - General"
+      },
+      {
+        "id": 12,
+        "categoriesId": 4,
+        "name": "Unusual names"
+      },
+      {
+        "id": 13,
+        "categoriesId": 5,
+        "name": "Science - General"
+      },
+      {
+        "id": 14,
+        "categoriesId": 5,
+        "name": "Physics"
+      },
+      {
+        "id": 15,
+        "categoriesId": 5,
+        "name": "Earth sciences"
+      },
+      {
+        "id": 16,
+        "categoriesId": 5,
+        "name": "Chemistry and material science"
+      },
+      {
+        "id": 17,
+        "categoriesId": 5,
+        "name": "Space and astronomy"
+      },
+      {
+        "id": 18,
+        "categoriesId": 5,
+        "name": "Medicine and health"
+      },
+      {
+        "id": 19,
+        "categoriesId": 5,
+        "name": "Human sexuality and reproduction"
+      },
+      {
+        "id": 20,
+        "categoriesId": 5,
+        "name": "Individual patients and staff"
+      },
+      {
+        "id": 21,
+        "categoriesId": 5,
+        "name": "Nervous system and behaviour"
+      },
+      {
+        "id": 22,
+        "categoriesId": 5,
+        "name": "Phobias"
+      },
+      {
+        "id": 23,
+        "categoriesId": 5,
+        "name": "Animals - General"
+      },
+      {
+        "id": 24,
+        "categoriesId": 5,
+        "name": "Cats"
+      },
+      {
+        "id": 25,
+        "categoriesId": 5,
+        "name": "Cattle"
+      },
+      {
+        "id": 26,
+        "categoriesId": 5,
+        "name": "Chickens"
+      },
+      {
+        "id": 27,
+        "categoriesId": 5,
+        "name": "Squirrels"
+      },
+      {
+        "id": 28,
+        "categoriesId": 5,
+        "name": "Mammals"
+      },
+      {
+        "id": 29,
+        "categoriesId": 5,
+        "name": "Individual animals"
+      },
+      {
+        "id": 30,
+        "categoriesId": 5,
+        "name": "Names in biology"
+      },
+      {
+        "id": 31,
+        "categoriesId": 5,
+        "name": "Plants"
+      },
+      {
+        "id": 32,
+        "categoriesId": 6,
+        "name": "Technology, inventions and products - General"
+      },
+      {
+        "id": 33,
+        "categoriesId": 6,
+        "name": "Hygiene and sanitation"
+      },
+      {
+        "id": 34,
+        "categoriesId": 6,
+        "name": "Clothing and accessories"
+      },
+      {
+        "id": 35,
+        "categoriesId": 6,
+        "name": "Transport"
+      },
+      {
+        "id": 36,
+        "categoriesId": 6,
+        "name": "Computing"
+      },
+      {
+        "id": 37,
+        "categoriesId": 7,
+        "name": "Popular culture, entertainment and the arts - General"
+      },
+      {
+        "id": 38,
+        "categoriesId": 7,
+        "name": "Art"
+      },
+      {
+        "id": 39,
+        "categoriesId": 7,
+        "name": "Comics and animation"
+      },
+      {
+        "id": 40,
+        "categoriesId": 7,
+        "name": "Literature"
+      },
+      {
+        "id": 41,
+        "categoriesId": 7,
+        "name": "Music"
+      },
+      {
+        "id": 42,
+        "categoriesId": 7,
+        "name": "Music - Instruments"
+      },
+      {
+        "id": 43,
+        "categoriesId": 7,
+        "name": "Music - Genres"
+      },
+      {
+        "id": 44,
+        "categoriesId": 7,
+        "name": "Music - Composers, musicians, and performers"
+      },
+      {
+        "id": 45,
+        "categoriesId": 7,
+        "name": "Musical works"
+      },
+      {
+        "id": 46,
+        "categoriesId": 7,
+        "name": "Musical works - Songs"
+      },
+      {
+        "id": 47,
+        "categoriesId": 7,
+        "name": "Musical works - Albums"
+      },
+      {
+        "id": 48,
+        "categoriesId": 7,
+        "name": "Film"
+      },
+      {
+        "id": 49,
+        "categoriesId": 7,
+        "name": "Television"
+      },
+      {
+        "id": 50,
+        "categoriesId": 7,
+        "name": "Video games"
+      },
+      {
+        "id": 51,
+        "categoriesId": 7,
+        "name": "Internet memes and online culture"
+      },
+      {
+        "id": 52,
+        "categoriesId": 7,
+        "name": "Festivals"
+      },
+      {
+        "id": 53,
+        "categoriesId": 7,
+        "name": "Stage shows"
+      },
+      {
+        "id": 54,
+        "categoriesId": 8,
+        "name": "Food - General"
+      },
+      {
+        "id": 55,
+        "categoriesId": 8,
+        "name": "Beverages"
+      },
+      {
+        "id": 56,
+        "categoriesId": 8,
+        "name": "Restaurants"
+      },
+      {
+        "id": 57,
+        "categoriesId": 9,
+        "name": "Sports - General"
+      },
+      {
+        "id": 58,
+        "categoriesId": 9,
+        "name": "Animals in sports"
+      },
+      {
+        "id": 59,
+        "categoriesId": 9,
+        "name": "Athletes"
+      },
+      {
+        "id": 60,
+        "categoriesId": 9,
+        "name": "Sport teams and associations"
+      },
+      {
+        "id": 61,
+        "categoriesId": 9,
+        "name": "Games and strategy contests"
+      },
+      {
+        "id": 62,
+        "categoriesId": 10,
+        "name": "Folklore - General"
+      },
+      {
+        "id": 63,
+        "categoriesId": 10,
+        "name": "Mystery animals and animal folklore"
+      },
+      {
+        "id": 64,
+        "categoriesId": 11,
+        "name": "Society, economy and law - General"
+      },
+      {
+        "id": 65,
+        "categoriesId": 11,
+        "name": "Politics and government"
+      },
+      {
+        "id": 66,
+        "categoriesId": 11,
+        "name": "Business and economics"
+      },
+      {
+        "id": 67,
+        "categoriesId": 11,
+        "name": "Law, law enforcement and crime"
+      },
+      {
+        "id": 68,
+        "categoriesId": 11,
+        "name": "Taxation"
+      },
+      {
+        "id": 69,
+        "categoriesId": 11,
+        "name": "Punishments"
+      },
+      {
+        "id": 70,
+        "categoriesId": 13,
+        "name": "Military - General"
+      },
+      {
+        "id": 71,
+        "categoriesId": 13,
+        "name": "Animals in the military"
+      },
+      {
+        "id": 72,
+        "categoriesId": 13,
+        "name": "Wars, operations and battles"
+      },
+      {
+        "id": 73,
+        "categoriesId": 13,
+        "name": "Weapons and military equipment"
+      }
+    ],
+    "articles": [
+      {
+        "id": 1,
+        "categoriesId": 1,
+        "subCategoriesId": 1,
+        "title": "Breast-shaped hill",
+        "teaserText": "Laid bare in many places around the world. May have given their name to Manchester."
+      },
+      {
+        "id": 2,
+        "categoriesId": 1,
+        "subCategoriesId": 1,
+        "title": "Folly",
+        "teaserText": "Buildings prized for their uselessness."
+      },
+      {
+        "id": 3,
+        "categoriesId": 1,
+        "subCategoriesId": 1,
+        "title": "Gravity hill",
+        "teaserText": "A hill that gives the illusion of objects rolling up it."
+      },
+      {
+        "id": 4,
+        "categoriesId": 1,
+        "subCategoriesId": 1,
+        "title": "Pizza farm",
+        "teaserText": "All the ingredients of pizza, grown in one convenient location!"
+      },
+      {
+        "id": 5,
+        "categoriesId": 1,
+        "subCategoriesId": 1,
+        "title": "Rocket garden",
+        "teaserText": "Landscaping and rocketry, together at last."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 1,
+        "title": "Spite house",
+        "teaserText": "Various houses built solely out of spite for their neighbors."
+      },
+      {
+        "id": 7,
+        "categoriesId": 1,
+        "subCategoriesId": 1,
+        "title": "Valeriepieris circle",
+        "teaserText": "You either live inside the circle or outside. Even though you live inside."
+      },
+      {
+        "id": 8,
+        "categoriesId": 1,
+        "subCategoriesId": 2,
+        "title": "Bir Tawil",
+        "teaserText": "One of the few places on Earth not claimed by any country. An American trekked there and claimed it in 2014 as the Kingdom of North Sudan so he could make his daughter a princess."
+      },
+      {
+        "id": 9,
+        "categoriesId": 1,
+        "subCategoriesId": 2,
+        "title": "Congo Pedicle",
+        "teaserText": "What happens when a tyrannical king decides he wants to hunt game in a swamp."
+      },
+      {
+        "id": 10,
+        "categoriesId": 1,
+        "subCategoriesId": 2,
+        "title": "Gaet'ale Pond",
+        "teaserText": "A small lake in Ethiopia that was created in 2005 after an earthquake. It's not bitter, it's just really, really salty."
+      },
+      {
+        "id": 11,
+        "categoriesId": 1,
+        "subCategoriesId": 2,
+        "title": "Jacob's Ladder (Saint Helena)",
+        "teaserText": "It's all very downhill from here."
+      },
+      {
+        "id": 12,
+        "categoriesId": 1,
+        "subCategoriesId": 2,
+        "title": "Lake Nyos",
+        "teaserText": "A lake in northwestern Cameroon that exploded in 1986, killing 1,746 people. One of 3 known exploding lakes, the others being Lake Monoun and Lake Kivu."
+      },
+      {
+        "id": 13,
+        "categoriesId": 1,
+        "subCategoriesId": 2,
+        "title": "Oklo Mine",
+        "teaserText": "The former site of the world's only natural nuclear fission reactors."
+      },
+      {
+        "id": 14,
+        "categoriesId": 1,
+        "subCategoriesId": 2,
+        "title": "Peñón de Vélez de la Gomera",
+        "teaserText": "A rock on the Moroccan coast connected to the mainland by an 80-metre-wide (260 ft) tombolo; it is owned by Spain."
+      },
+      {
+        "id": 15,
+        "categoriesId": 1,
+        "subCategoriesId": 2,
+        "title": "Republic of Benin (1967)",
+        "teaserText": "One of the shortest-lived states in history, it was independent for only seven hours (07:00 to 14:00 on 19 September 1967)."
+      },
+      {
+        "id": 16,
+        "categoriesId": 1,
+        "subCategoriesId": 3,
+        "title": "Blood Falls",
+        "teaserText": "A naturally occurring plume of saltwater that is blood red thanks to its high iron oxide content."
+      },
+      {
+        "id": 17,
+        "categoriesId": 1,
+        "subCategoriesId": 3,
+        "title": "Mawson Peak",
+        "teaserText": "The tallest mountain in Australia is not on the mainland, but on a barren, uninhabited island more than 3,800 kilometres (2,400 mi) away."
+      },
+      {
+        "id": 18,
+        "categoriesId": 1,
+        "subCategoriesId": 3,
+        "title": "McMurdo Dry Valleys",
+        "teaserText": "An area of Antarctica that a) contains an extremely saline body of water and b) has not experienced rainfall for over two million years."
+      },
+      {
+        "id": 19,
+        "categoriesId": 1,
+        "subCategoriesId": 3,
+        "title": "Marie Byrd Land",
+        "teaserText": "The largest unclaimed territory in the world. Notable for being bigger than Mongolia, having one of Antarctica's biggest human bases, and being the setting of the 1951 film The Thing."
+      },
+      {
+        "id": 20,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Artsvashen",
+        "teaserText": "An Armenian town surrounded and controlled by Azerbaijan. One of a number of similar towns on this border; others include Yukhari Askipara, Barxudarlı and Karki."
+      },
+      {
+        "id": 21,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Atar, Padang Ganting",
+        "teaserText": "An Indonesian village with a monument resembling a photocopier."
+      },
+      {
+        "id": 22,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Camp Bonifas",
+        "teaserText": "The bunkers on this golf course feature machine-guns and landmines."
+      },
+      {
+        "id": 23,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Dahala Khagrabari",
+        "teaserText": "India inside Bangladesh inside India inside Bangladesh. Formerly the only third-order enclave in the world."
+      },
+      {
+        "id": 24,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Darvaza gas crater",
+        "teaserText": "A flaming, 70 m (230 ft) wide, 30 m (98 ft) deep crater in the middle of the Karakum Desert, on fire since 1971."
+      },
+      {
+        "id": 25,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Dhekelia Power Station",
+        "teaserText": "A Cypriot power station that provides power to a British military base that surrounds it."
+      },
+      {
+        "id": 26,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Diomede Islands",
+        "teaserText": "Two islands in the Bering Strait separated by 4 kilometres (2.5 mi) and 21 hours' time difference."
+      },
+      {
+        "id": 27,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Gangkhar Puensum",
+        "teaserText": "The tallest mountain nobody has ever summitted, as the Bhutanese government has prohibited mountaineering since 2003."
+      },
+      {
+        "id": 28,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Gate Tower Building",
+        "teaserText": "A skyscraper in Japan that has a highway offramp passing through its fifth, sixth and seventh floors."
+      },
+      {
+        "id": 29,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Hallstatt (China)",
+        "teaserText": "An ongoing replica construction of a town in Austria."
+      },
+      {
+        "id": 30,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Hanazono Room",
+        "teaserText": "An indoor swimming pool in Japan used as the site for many pornographic films."
+      },
+      {
+        "id": 31,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Jewish Autonomous Oblast",
+        "teaserText": "In the depth of Eastern Siberia there's a place with street names in Yiddish, even though 99% of its population is not Jewish."
+      },
+      {
+        "id": 32,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Kai Tak Airport",
+        "teaserText": "A major international airport closed in 1998 where planes literally almost crashed constantly into the city due to a right-hand turn over the city."
+      },
+      {
+        "id": 33,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Karni Mata Temple",
+        "teaserText": "A marble temple famous for 25,000 revered black rats that live in the temple who are considered the ancestors of Charans."
+      },
+      {
+        "id": 34,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Kijong-dong",
+        "teaserText": "A village in North Korea characterized by mainstream media as a North Korean propaganda Potemkin village."
+      },
+      {
+        "id": 35,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Korea Central Zoo",
+        "teaserText": "A zoo with such wondrous animals as a chimpanzee with a smoking habit, a parrot that sings the praises of Kim Il-sung, and some of the few legally owned dogs in Pyongyang."
+      },
+      {
+        "id": 36,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Kowloon Walled City",
+        "teaserText": "A former enclave in the city of Hong Kong, known for lawlessness and extremely cramped conditions before it was destroyed and turned into a park."
+      },
+      {
+        "id": 37,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Living root bridge",
+        "teaserText": "Double-decker suspension bridges formed of living plant aerial roots of rubber fig trees by tree shaping common in the southern part of the Northeast Indian state of Meghalaya."
+      },
+      {
+        "id": 38,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Love Land",
+        "teaserText": "An erotic-themed sculpture park on Jeju island in South Korea."
+      },
+      {
+        "id": 39,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Nahwa",
+        "teaserText": "One of only eight counter-enclaves (enclaves of enclaves)."
+      },
+      {
+        "id": 40,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Nakhchivan Autonomous Republic",
+        "teaserText": "A landlocked exclave of Azerbaijan (it is surrounded by three different countries rather than only one, so it is not an enclave)."
+      },
+      {
+        "id": 41,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Ōkunoshima",
+        "teaserText": "An island between the Japanese home islands of Honshu and Shikoku formerly home to a chemical weapons plant in WW2, now home to a huge population of feral but largely tame rabbits."
+      },
+      {
+        "id": 42,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Omsk Metro",
+        "teaserText": "A metro system with only one station and a total length of zero kilometres."
+      },
+      {
+        "id": 43,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Peanut Hole",
+        "teaserText": "A delightfully named patch of ocean in the Sea of Okhotsk that is totally surrounded by Russia's EEZ but not inside it. Often the subject of foreign overfishing."
+      },
+      {
+        "id": 44,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Rednaxela Terrace",
+        "teaserText": "A street in Hong Kong, whose name was reportedly reversed due to a clerical error"
+      },
+      {
+        "id": 45,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Robot Building",
+        "teaserText": "That's not a giant robot looming in Bangkok; it's just a bank's headquarters"
+      },
+      {
+        "id": 46,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Ryugyong Hotel",
+        "teaserText": "Once, it would have been the world's tallest hotel – except it lacked windows, fittings, or fixtures for over twenty years."
+      },
+      {
+        "id": 47,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "San Serriffe",
+        "teaserText": "A lesser-known island in the Indian Ocean, subject of the April 1, 1977 Guardian."
+      },
+      {
+        "id": 48,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Sansha",
+        "teaserText": "A disputed prefecture-level city in Hainan consisting of a collection of atolls and reefs throughout the South China Sea."
+      },
+      {
+        "id": 49,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Seikan Tunnel Tappi Shakō Line",
+        "teaserText": "The closed funicular that connects an underground train station inside the Seikan Tunnel with a museum."
+      },
+      {
+        "id": 50,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Shingō, Aomori",
+        "teaserText": "A town in Japan that is (supposedly) home to the tomb of Jesus. The story behind the supposed tomb is even odder."
+      },
+      {
+        "id": 51,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Soʻx District",
+        "teaserText": "An exclave of Uzbekistan enclaved within Kyrgyzstan with a 99% Tajik population."
+      },
+      {
+        "id": 52,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Tashirojima",
+        "teaserText": "An island in Japan notable for being full of cats."
+      },
+      {
+        "id": 53,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Tomb of Suleyman Shah",
+        "teaserText": "One of the burial sites of the first Ottoman emperor's grandfather is part of Turkey despite being 27 kilometres (17 mi) south of the country's border with Syria."
+      },
+      {
+        "id": 54,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Tsu Station",
+        "teaserText": "By kana, the tersest railway station in Japan, serving the capital of an almost as terse prefecture. By stroke count, the tersest in the world. By transliteration, only second-tersest."
+      },
+      {
+        "id": 55,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Wonderland Amusement Park",
+        "teaserText": "The largest abandoned amusement park in Asia."
+      },
+      {
+        "id": 56,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "X-Seed 4000",
+        "teaserText": "The tallest building ever designed, standing 4 kilometres (2.5 mi) tall and housing 500,000 to 1,000,000 people on 800 floors. It is, however, 'never meant to be built'."
+      },
+      {
+        "id": 57,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Yongning Pagoda",
+        "teaserText": "A 6th-century pagoda that was possibly the tallest structure in the world until it was destroyed by lightning 18 years after its completion."
+      },
+      {
+        "id": 58,
+        "categoriesId": 1,
+        "subCategoriesId": 4,
+        "title": "Zheltuga Republic",
+        "teaserText": "An illegal gold mining settlement that developed into a thriving unrecognised country, only surviving because the Chinese government was unaware that it existed."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Argleton",
+        "teaserText": "A non-existent town in Lancashire, England that appeared on Google Maps."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Barcelona Supercomputing Center",
+        "teaserText": "A supercomputer in a medieval chapel."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Barentsburg",
+        "teaserText": "A completely Russian town, inhabited by Russians, with Russian buildings, supported financially by the Russian government, located in Norway."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Barra Airport",
+        "teaserText": "An airport that only operates when the tide allows."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Battersea Power Station station",
+        "teaserText": "A train station named after a non-train station"
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Beans and Bacon mine",
+        "teaserText": "With such little ventilation, visitors may want to avoid any source of ignition. Nearby mines are not to be outdone and have the following names: Mule Spinner, Frogs Hole, Cackle Mackle, and Wanton Legs."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Berlin Brandenburg Airport",
+        "teaserText": "A construction-finished but unfinished in other areas airport in Berlin. Construction was finished in 2012; however, the opening date was repeatedly pushed back as the fire suppression system was installed incorrectly. It finally opened in October 2020."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Bielefeld conspiracy",
+        "teaserText": "The Bielefeld-Verschwörung tries to hide the horrible truth about a city in Westphalia, Germany that doesn't exist... well, maybe."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Brennender Berg",
+        "teaserText": "A German coal mine on fire since 1668."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "The Broomway",
+        "teaserText": "The most dangerous path in the world? Would you join a hundred others who died walking the invisible path?"
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Brusio spiral viaduct",
+        "teaserText": "The title says it all, really."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Büsingen am Hochrhein",
+        "teaserText": "A German town that is fully contained within Switzerland."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Butt Hole Road",
+        "teaserText": "A tiny residential street in the UK that was so infamous for its name that it became a tourist attraction."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Carpatho-Ukraine",
+        "teaserText": "The third shortest-lived state in history (see Benin Republic in Nigeria); it was independent for only 24 hours."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Cerne Abbas Giant",
+        "teaserText": "An indecent chalk man in the English countryside."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Ferdinand Cheval",
+        "teaserText": "A postman, who, for thirty-three years, collected stones while making his rounds and used them to build a surreal Palais Idéal ("Ideal Palace") of astonishing proportions and intricate detail."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Colletto Fava",
+        "teaserText": "A 1,500-metre (4,900 ft) hill with a 61-metre (200 ft) stuffed pink bunny on top."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Ebenezer Place, Wick",
+        "teaserText": "The world's shortest street."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Fallen Monument Park",
+        "teaserText": "A Russian park best known for its toppled statues."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Ferdinandea Island",
+        "teaserText": "The island that disappeared. And rose again. And sank again. And rose again. And sank again."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Flannan Isles Lighthouse",
+        "teaserText": "Located on Eilean Mór, this lighthouse to the west of Scotland is the subject of an enduring mystery over the disappearance of its keepers in 1900."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "Forest swastika",
+        "teaserText": "A gigantic swastika made of larch trees that went unnoticed for nearly sixty years."
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+      {
+        "id": 6,
+        "categoriesId": 1,
+        "subCategoriesId": 5,
+        "title": "",
+        "teaserText": ""
+      },
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "date": "8/02/2022",
+      "author": "Totally RealPerson",
+      "quote": "Hello, I am an example quote. AHHHHHH",
+      "hashTags": [
+        "hashtag",
+        "imcool"
+      ]
+    }
+  ]
+}

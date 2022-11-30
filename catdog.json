@@ -1,0 +1,87 @@
+{
+  "votes": [
+    {
+      "url": "https://cdn2.thecatapi.com/images/bq1.jpg",
+      "animal": "cat",
+      "dateTime": 1665530900287,
+      "title": "",
+      "description": "",
+      "imgid": "bq1",
+      "userid": 1,
+      "id": 1
+    },
+    {
+      "url": "https://cdn2.thecatapi.com/images/nK0RaZbq3.jpg",
+      "animal": "cat",
+      "dateTime": 1665530903906,
+      "title": "",
+      "description": "",
+      "imgid": "nK0RaZbq3",
+      "userid": 1,
+      "id": 2
+    },
+    {
+      "url": "https://cdn2.thedogapi.com/images/WSHowxXDo.jpg",
+      "animal": "dog",
+      "dateTime": 1665530907476,
+      "title": "",
+      "description": "",
+      "imgid": "WSHowxXDo",
+      "userid": 1,
+      "id": 3
+    },
+    {
+      "url": "https://cdn2.thedogapi.com/images/hQ2VRo0Pd.jpg",
+      "animal": "dog",
+      "dateTime": 1665531840149,
+      "title": "",
+      "description": "",
+      "imgid": "hQ2VRo0Pd",
+      "userid": 1,
+      "id": 4
+    },
+    {
+      "url": "https://cdn2.thedogapi.com/images/6f5n_42mB.jpg",
+      "animal": "dog",
+      "dateTime": 1665531844188,
+      "title": "",
+      "description": "",
+      "imgid": "6f5n_42mB",
+      "userid": 1,
+      "id": 5
+    },
+    {
+      "url": "https://cdn2.thecatapi.com/images/5d4.jpg",
+      "animal": "cat",
+      "dateTime": 1665531847628,
+      "title": "",
+      "description": "",
+      "imgid": "5d4",
+      "userid": 1,
+      "id": 6
+    },
+    {
+      "url": "https://cdn2.thecatapi.com/images/O-57OLhn7.jpg",
+      "animal": "cat",
+      "dateTime": 1665531857807,
+      "title": "",
+      "description": "",
+      "imgid": "O-57OLhn7",
+      "userid": 1,
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "John"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "userid": 1,
+      "imgid": "HJf4jl9VX"
+    }
+  ]
+}
