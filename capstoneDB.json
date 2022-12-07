@@ -121,27 +121,6 @@
       "articleId": 600,
       "categoryId": 5,
       "subCategoryId": 17
-    },
-    {
-      "userId": 1,
-      "articleId": 1,
-      "categoryId": 1,
-      "subCategoryId": 1,
-      "id": 9
-    },
-    {
-      "userId": 1,
-      "articleId": 2,
-      "categoryId": 1,
-      "subCategoryId": 1,
-      "id": 10
-    },
-    {
-      "userId": 1,
-      "articleId": 3,
-      "categoryId": 1,
-      "subCategoryId": 1,
-      "id": 11
     }
   ],
   "savedForLater": [],
@@ -569,6 +548,21 @@
       "id": 73,
       "categoryId": 13,
       "name": "Weapons and military equipment"
+    },
+    {
+      "id": 997,
+      "categoryId": 2,
+      "name": "No subcategory"
+    },
+    {
+      "id": 998,
+      "categoryId": 12,
+      "name": "No subcategory"
+    },
+    {
+      "id": 999,
+      "categoryId": 14,
+      "name": "No subcategory"
     }
   ],
   "articles": [
@@ -2261,343 +2255,343 @@
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Abul-Abbas",
       "teaserText": "An Asian elephant given to Carolingian emperor Charlemagne by the Abbasid caliph Harun al-Rashid.",
       "id": 277
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Architecture terrible",
       "teaserText": "An architectural style advocated by French architect Jacques-François Blondel.",
       "id": 278
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "John Bentinck, 5th Duke of Portland",
       "teaserText": "A reclusive English nobleman who built a vast maze under his home.",
       "id": 279
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Burned house horizon",
       "teaserText": "The horizon which consumed cultures in the Balkans and around the Black Sea.",
       "id": 280
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Cadaver Synod",
       "teaserText": "A deceased Pope was exhumed and put on trial!",
       "id": 281
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Charles II of Spain",
       "teaserText": "The last Habsburg King of Spain, who was so inbred that he could barely rule his nation.",
       "id": 282
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Confederados",
       "teaserText": "A small group of white Brazilians with roots in the southern United States.",
       "id": 283
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Cottage cheese boycott",
       "teaserText": "A protest against rising staple food prices in Israel.",
       "id": 284
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Count of St. Germain",
       "teaserText": "The original Tommy Wiseau, an eighteenth century polymath who made a number of contradictory claims about his origins, including that he was 500 years old. People have also claimed he is an important theosophical figure who many have claimed to have met years after his supposed death in 1784.",
       "id": 285
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Crocker Land Expedition",
       "teaserText": "An expedition to a non-existent island created to swindle a businessman.",
       "id": 286
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Czechoslovak Togo",
       "teaserText": "A landlocked Eastern European country proposed getting a colony in Africa, to be administered by its troops in Siberia.",
       "id": 287
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Dai Hong Dan incident",
       "teaserText": "The time the United States and North Korea teamed up against their greatest fear... pirates!",
       "id": 288
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Dancing plague of 1518",
       "teaserText": "In 1518 around 400 people took to dancing for days without rest, and, over the period of about one month, some of those affected died of heart attack, stroke, or exhaustion.",
       "id": 289
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Daughter of Emperor Xiaoming of Northern Wei",
       "teaserText": "A disputed first female monarch of Chinese history before Wu Zetian, whom the Empress Dowager Hu declared was a boy and was emperor for a day before being replaced by another infant.",
       "id": 290
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Timothy Dexter",
       "teaserText": "Genius businessman or loony?",
       "id": 291
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Đorđe Martinović incident",
       "teaserText": "Perhaps, one of the motives that started the fragmentation of Yugoslavia. We are serious.",
       "id": 292
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Defenestrations of Prague",
       "teaserText": "When was the last time throwing someone out of a window started a war?",
       "id": 293
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Erfurt latrine disaster",
       "teaserText": "It's incredible how quickly someone's life can go to shit.",
       "id": 294
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Juan Pujol García",
       "teaserText": "A spy who worked as a double agent for the Nazis and the United Kingdom during World War II.",
       "id": 295
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Glass delusion",
       "teaserText": "Believing oneself to be made of glass was quite in vogue among Renaissance-era European nobility.",
       "id": 296
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Great Michigan Pizza Funeral",
       "teaserText": "\"Ashes to ashes, crust to crust.\"",
       "id": 297
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Great Molasses Flood",
       "teaserText": "A storage tank burst and flooded the streets of Boston with a 25-foot (7.6 m) high wave of molasses.",
       "id": 298
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Great Moon Hoax",
       "teaserText": "An infamous article by The Sun that claimed that animals such as unicorns and bat-winged humans were found living on the moon.",
       "id": 299
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Great Stink",
       "teaserText": "A London summer so smelly it prompted government action.",
       "id": 300
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Violet Jessop",
       "teaserText": "An Argentinian nurse known for surviving three separate maritime disasters, including the sinkings of both the Titanic and the Britannic.",
       "id": 301
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Gregor MacGregor",
       "teaserText": "That's his real name. Possibly the only honest thing about him.",
       "id": 302
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "London Beer Flood",
       "teaserText": "Nine people drowned by a flood of over 300,000 gallons of beer.",
       "id": 303
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "The Miracle of 1511",
       "teaserText": "When the people of Brussels protested against their rulers by building satirical and pornographic snowmen.",
       "id": 304
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Mutiny on the Bounty",
       "teaserText": "The true story starting with a stern captain and a lustful crew on a Royal Navy ship and ending with the British-Polynesian Seventh-day Adventist culture of the Pitcairn Islands. Plenty of drama in-between.",
       "id": 305
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Kilroy Was Here",
       "teaserText": "A meme from World War II.",
       "id": 306
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Kottabos",
       "teaserText": "The world's first drinking game. Care to play? All you need is a bronze \"lamp stand\" with a tiny statuette on top and some wine.",
       "id": 307
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Kingdom of Sedang",
       "teaserText": "A French adventurer created a kingdom in Vietnam.",
       "id": 308
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "North Hollywood shootout",
       "teaserText": "In 1997, two heavily armed men were involved in a bank robbery, which turned into a 44-minute shootout with police officers. 20 people were injured as a result, and only the criminals died.",
       "id": 309
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Norwegian butter crisis",
       "teaserText": "A massive inflation of butter prices caused illegal smuggling and an \"emergency appeal\" from a Danish television show.",
       "id": 310
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Emilio Palma",
       "teaserText": "An Argentine national who was the first person to be born in Antarctica.",
       "id": 311
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Pepsi fruit juice flood",
       "teaserText": "A PepsiCo warehouse collapse flooded the streets of Russia with an assortment of juices.",
       "id": 312
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "George Psalmanazar",
       "teaserText": "A Frenchman who was so successful in convincing 18th-century Britain he was a Taiwanese man, that he wrote an elaborate and blatantly fictitious history of the island.",
       "id": 313
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Mathias Rust",
       "teaserText": "The West German who landed on a bridge in Moscow in 1987.",
       "id": 314
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Order of the Pug",
       "teaserText": "A fraternal order that existed for Roman Catholics in Bavaria in the 18th century.",
       "id": 315
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Puyi",
       "teaserText": "He became the last Emperor of China at the age of two and died as an ordinary citizen, ending 2,133 years of dynastic rule in China. In his twilight years, he also did community theater.",
       "id": 316
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Pope Benedict IX",
       "teaserText": "He became pope at twenty, and later sold the papacy. He was pope three times.",
       "id": 317
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Roland the Farter",
       "teaserText": "He was granted land by King Henry II in exchange for annual flatulist performances.",
       "id": 318
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Sacred Band of Thebes",
       "teaserText": "An elite fighting force consisting of a hand-picked groups of 150 pairs of male lovers.",
       "id": 319
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Taiping Rebellion",
       "teaserText": "One of the most lethal wars in history centers around a Chinese man claiming to be the brother of Jesus Christ.",
       "id": 320
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Tank Man",
       "teaserText": "An unidentified man who achieved widespread recognition after standing in front, and blocking the procession of a column of tanks, the morning after the bloody suppression of the 1989 Tiananmen Square protests.",
       "id": 321
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Uday Hussein",
       "teaserText": "Saddam Hussein's oldest son and a real-life Far Cry or James Bond villain. Among other things, he was a rapist and murderer, had a doppelganger named Latif Yahia, (whom Uday would send to torture) and also had the habit of kidnapping women at wedding celebrations. He was killed along with his brother by US soldiers during the Occupation of Iraq (2003–2011); some may argue this was the only \"good\" thing that ever came from this war.",
       "id": 322
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "Weather Station Kurt",
       "teaserText": "That time when the Nazis landed in North America.",
       "id": 323
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "William Walker (filibuster)",
       "teaserText": "A lawyer and avid pro-slavery filibuster from the US who tried to conquer the northern part of Baja California, where he failed, and then was able to conquer the newly independent Nicaragua where he ended up as the de facto president for almost a year. He was ultimately expelled from the country and killed in Honduras, but his history contributed to the concept of Latin America.",
       "id": 324
     },
     {
       "categoryId": 2,
-      "subCategoryId": "",
+      "subCategoryId": 997,
       "title": "John Zegrus",
       "teaserText": "A man who showed up in Japan in 1959 under a fake identity, claiming to be a war hero who was now working as an ambassador and spy from the fictional African nation of Negus Habes based in South Korea, looking to recruit Japanese soldiers to fight for the United Arab Republic. This implausible backstory has inspired a number of urban legends. His true identity and purpose for his visit remain unknown.",
       "id": 325
@@ -15814,625 +15808,625 @@
     {
       "id": 2215,
       "categoryId": 12,
-      "subCategoryId": "",
+      "subCategoryId": 998,
       "title": "Adam-God doctrine",
       "teaserText": "A previous Mormon belief that Adam was an alien who became God on his death."
     },
     {
-        "id": 2216,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "The All-Joking, All-Drunken Synod of Fools and Jesters",
-        "teaserText": "Started by Peter the Great, and consisted mostly of drinking and partying."
+      "id": 2216,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "The All-Joking, All-Drunken Synod of Fools and Jesters",
+      "teaserText": "Started by Peter the Great, and consisted mostly of drinking and partying."
     },
     {
-        "id": 2217,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "As a dog returns to his vomit, so a fool repeats his folly",
-        "teaserText": "An oldie but a goodie from the Bible."
+      "id": 2217,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "As a dog returns to his vomit, so a fool repeats his folly",
+      "teaserText": "An oldie but a goodie from the Bible."
     },
     {
-        "id": 2218,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Asher yatzar",
-        "teaserText": "A Jewish blessing, read to praise the ability to excrete urine or faeces."
+      "id": 2218,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Asher yatzar",
+      "teaserText": "A Jewish blessing, read to praise the ability to excrete urine or faeces."
     },
     {
-        "id": 2219,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Axinomancy",
-        "teaserText": "Foretelling the future by looking at an axe or hatchet."
+      "id": 2219,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Axinomancy",
+      "teaserText": "Foretelling the future by looking at an axe or hatchet."
     },
     {
-        "id": 2220,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Banquet of Chestnuts",
-        "teaserText": "Enough to make even the most committed and diehard Roman Catholic agree that the church was in a pretty poor state at the time of the Reformation."
+      "id": 2220,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Banquet of Chestnuts",
+      "teaserText": "Enough to make even the most committed and diehard Roman Catholic agree that the church was in a pretty poor state at the time of the Reformation."
     },
     {
-        "id": 2221,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Ben Hana",
-        "teaserText": "A homeless man in Wellington, New Zealand who worshiped the Māori sun-god Ra (not to be confused with the ancient Egyptian sun-god Ra)."
+      "id": 2221,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Ben Hana",
+      "teaserText": "A homeless man in Wellington, New Zealand who worshiped the Māori sun-god Ra (not to be confused with the ancient Egyptian sun-god Ra)."
     },
     {
-        "id": 2222,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Bible errata",
-        "teaserText": "A typesetter's complaint finds justification in Psalm 119."
+      "id": 2222,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Bible errata",
+      "teaserText": "A typesetter's complaint finds justification in Psalm 119."
     },
     {
-        "id": 2223,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Braco (faith healer)",
-        "teaserText": "Meet the Gazer and be healed with a single glance."
+      "id": 2223,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Braco (faith healer)",
+      "teaserText": "Meet the Gazer and be healed with a single glance."
     },
     {
-        "id": 2224,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Carlo Acutis",
-        "teaserText": "The Catholic Patron Saint of the Internet."
+      "id": 2224,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Carlo Acutis",
+      "teaserText": "The Catholic Patron Saint of the Internet."
     },
     {
-        "id": 2225,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Cadaver Synod",
-        "teaserText": "In 897, Pope Stephen VI had the body of his predecessor Pope Formosus exhumed, dressed in papal vestments and then seated on a throne while he read charges against it and conducted a trial."
+      "id": 2225,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Cadaver Synod",
+      "teaserText": "In 897, Pope Stephen VI had the body of his predecessor Pope Formosus exhumed, dressed in papal vestments and then seated on a throne while he read charges against it and conducted a trial."
     },
     {
-        "id": 2226,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Caganer",
-        "teaserText": "A traditional Catalan statue, similar to a garden gnome, that depicts a person defecating. Often included in Catalan nativity scenes or other Christmas decorations."
+      "id": 2226,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Caganer",
+      "teaserText": "A traditional Catalan statue, similar to a garden gnome, that depicts a person defecating. Often included in Catalan nativity scenes or other Christmas decorations."
     },
     {
-        "id": 2227,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Cargo cult",
-        "teaserText": "Tribal rites and rituals developed in the belief they will attract the goods, wealth and materials – the \"cargo\" – of a more technologically advanced and affluent culture."
+      "id": 2227,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Cargo cult",
+      "teaserText": "Tribal rites and rituals developed in the belief they will attract the goods, wealth and materials – the \"cargo\" – of a more technologically advanced and affluent culture."
     },
     {
-        "id": 2228,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Christmas in Nazi Germany",
-        "teaserText": "The Nazi Party reinvented Christmas by removing a certain baby boy raised in the Jewish faith."
+      "id": 2228,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Christmas in Nazi Germany",
+      "teaserText": "The Nazi Party reinvented Christmas by removing a certain baby boy raised in the Jewish faith."
     },
     {
-        "id": 2229,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Church of the First Born of the Lamb of God",
-        "teaserText": "A fundamentalist Mormon group with a surprisingly large body count."
+      "id": 2229,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Church of the First Born of the Lamb of God",
+      "teaserText": "A fundamentalist Mormon group with a surprisingly large body count."
     },
     {
-        "id": 2230,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Clare of Assisi",
-        "teaserText": "Because she claimed to have seen and heard Mass on the walls when she was ill, she was made the patron saint of television in 1958, despite dying 674 years before television was invented."
+      "id": 2230,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Clare of Assisi",
+      "teaserText": "Because she claimed to have seen and heard Mass on the walls when she was ill, she was made the patron saint of television in 1958, despite dying 674 years before television was invented."
     },
     {
-        "id": 2231,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Coconut Religion",
-        "teaserText": "A religion founded in Vietnam that advocates subsisting solely off of coconuts and coconut milk, created a \"Coconut Kingdom\" on an islet of the Mekong River, and referred to its leader and founder as \"His Coconutship\"."
+      "id": 2231,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Coconut Religion",
+      "teaserText": "A religion founded in Vietnam that advocates subsisting solely off of coconuts and coconut milk, created a \"Coconut Kingdom\" on an islet of the Mekong River, and referred to its leader and founder as \"His Coconutship\"."
     },
     {
-        "id": 2232,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Crepitus (mythology)",
-        "teaserText": "A Roman god of flatulence (allegedly)"
+      "id": 2232,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Crepitus (mythology)",
+      "teaserText": "A Roman god of flatulence (allegedly)"
     },
     {
-        "id": 2233,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Criticism of Mother Teresa",
-        "teaserText": "Seriously? Yep, seriously. Her detractors include Christopher Hitchens, Tariq Ali and devout Hindus."
+      "id": 2233,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Criticism of Mother Teresa",
+      "teaserText": "Seriously? Yep, seriously. Her detractors include Christopher Hitchens, Tariq Ali and devout Hindus."
     },
     {
-        "id": 2234,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Dhana Kumari Bajracharya",
-        "teaserText": "A woman did not walk for 60 years."
+      "id": 2234,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Dhana Kumari Bajracharya",
+      "teaserText": "A woman did not walk for 60 years."
     },
     {
-        "id": 2235,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Dinkoism",
-        "teaserText": "A parody religion that places Dinkan, a comic character from Malayalam Children's magazine Balamangalam, as the one true God and the creator of the Universe."
+      "id": 2235,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Dinkoism",
+      "teaserText": "A parody religion that places Dinkan, a comic character from Malayalam Children's magazine Balamangalam, as the one true God and the creator of the Universe."
     },
     {
-        "id": 2236,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Disconnection (Scientology)",
-        "teaserText": "The result of a poor signal with Scientology."
+      "id": 2236,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Disconnection (Scientology)",
+      "teaserText": "The result of a poor signal with Scientology."
     },
     {
-        "id": 2237,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Harold Davidson",
-        "teaserText": "A 1930s Church of England clergyman, known as \"The Prostitutes' Padre\", who was defrocked and later died after being mauled by a toothless lion."
+      "id": 2237,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Harold Davidson",
+      "teaserText": "A 1930s Church of England clergyman, known as \"The Prostitutes' Padre\", who was defrocked and later died after being mauled by a toothless lion."
     },
     {
-        "id": 2238,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Ejaculatory prayer",
-        "teaserText": "A short and impulsive prayer not—as the name may suggest—a prayer related to ejaculation."
+      "id": 2238,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Ejaculatory prayer",
+      "teaserText": "A short and impulsive prayer not—as the name may suggest—a prayer related to ejaculation."
     },
     {
-        "id": 2239,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Feast of the Ass",
-        "teaserText": "No... this isn't about that ass. It's an old tradition where a girl and a child on a donkey go to church together, with the donkey sitting beside the altar during the sermon."
+      "id": 2239,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Feast of the Ass",
+      "teaserText": "No... this isn't about that ass. It's an old tradition where a girl and a child on a donkey go to church together, with the donkey sitting beside the altar during the sermon."
     },
     {
-        "id": 2240,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Flirty Fishing",
-        "teaserText": "Sharing the Gospel through prostitution."
+      "id": 2240,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Flirty Fishing",
+      "teaserText": "Sharing the Gospel through prostitution."
     },
     {
-        "id": 2241,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Fluffy bunny",
-        "teaserText": "A controversial epithet in Wicca."
+      "id": 2241,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Fluffy bunny",
+      "teaserText": "A controversial epithet in Wicca."
     },
     {
-        "id": 2242,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Flying Spaghetti Monster",
-        "teaserText": "The basis of a satirical religion created to make fun of intelligent design."
+      "id": 2242,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Flying Spaghetti Monster",
+      "teaserText": "The basis of a satirical religion created to make fun of intelligent design."
     },
     {
-        "id": 2243,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Freedomites",
-        "teaserText": "A Canadian religious cult that bombed and set fire to public buildings. All while nude."
+      "id": 2243,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Freedomites",
+      "teaserText": "A Canadian religious cult that bombed and set fire to public buildings. All while nude."
     },
     {
-        "id": 2244,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Gambling on papal elections",
-        "teaserText": "How much you wanna bet he's going to be Catholic?"
+      "id": 2244,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Gambling on papal elections",
+      "teaserText": "How much you wanna bet he's going to be Catholic?"
     },
     {
-        "id": 2245,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Gang Bing",
-        "teaserText": "After his act of self-castration, he became the patron saint of eunuchs."
+      "id": 2245,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Gang Bing",
+      "teaserText": "After his act of self-castration, he became the patron saint of eunuchs."
     },
     {
-        "id": 2246,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Great Disappointment",
-        "teaserText": "Hundreds of people were convinced the world would end on a very specific date. Turns out they were wrong. Ahem."
+      "id": 2246,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Great Disappointment",
+      "teaserText": "Hundreds of people were convinced the world would end on a very specific date. Turns out they were wrong. Ahem."
     },
     {
-        "id": 2247,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Haitian Vodou and sexual orientation",
-        "teaserText": "Surely a troll, you say? No! A perfectly legitimate article!"
+      "id": 2247,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Haitian Vodou and sexual orientation",
+      "teaserText": "Surely a troll, you say? No! A perfectly legitimate article!"
     },
     {
-        "id": 2248,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Hell house",
-        "teaserText": "A type of Christian horror house to make children more pious."
+      "id": 2248,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Hell house",
+      "teaserText": "A type of Christian horror house to make children more pious."
     },
     {
-        "id": 2249,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "High-Heel Wedding Church",
-        "teaserText": "Located in Taiwan, it’s perhaps the world’s strangest place at which to marry your loved one."
+      "id": 2249,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "High-Heel Wedding Church",
+      "teaserText": "Located in Taiwan, it’s perhaps the world’s strangest place at which to marry your loved one."
     },
     {
-        "id": 2250,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Holy Prepuce",
-        "teaserText": "One of several relics purported to be associated with Jesus. Also known as The Holy Foreskin. (See also Circumcision of Jesus.)"
+      "id": 2250,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Holy Prepuce",
+      "teaserText": "One of several relics purported to be associated with Jesus. Also known as The Holy Foreskin. (See also Circumcision of Jesus.)"
     },
     {
-        "id": 2251,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Iglesia Maradoniana",
-        "teaserText": "A religion with the Argentine footballer Diego Maradona as its god."
+      "id": 2251,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Iglesia Maradoniana",
+      "teaserText": "A religion with the Argentine footballer Diego Maradona as its god."
     },
     {
-        "id": 2252,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Incident (Scientology)",
-        "teaserText": "Bubble Gum Incident, Obscene Dog Incident, Bodies in pawn, blah, blah..."
+      "id": 2252,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Incident (Scientology)",
+      "teaserText": "Bubble Gum Incident, Obscene Dog Incident, Bodies in pawn, blah, blah..."
     },
     {
-        "id": 2253,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "International date line in Judaism and Jewish law in the polar regions",
-        "teaserText": "Jewish law can get tricky when you travel to Hawaii...or go for a hike near the North Pole"
+      "id": 2253,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "International date line in Judaism and Jewish law in the polar regions",
+      "teaserText": "Jewish law can get tricky when you travel to Hawaii...or go for a hike near the North Pole"
     },
     {
-        "id": 2254,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Invisible Pink Unicorn",
-        "teaserText": "Best buds with the Flying Spaghetti Monster"
+      "id": 2254,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Invisible Pink Unicorn",
+      "teaserText": "Best buds with the Flying Spaghetti Monster"
     },
     {
-        "id": 2255,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Islamic toilet etiquette",
-        "teaserText": "The large number of rules to be followed by Muslims when relieving themselves."
+      "id": 2255,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Islamic toilet etiquette",
+      "teaserText": "The large number of rules to be followed by Muslims when relieving themselves."
     },
     {
-        "id": 2256,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Islamic views on anal sex",
-        "teaserText": "There are fatwas for everything. Even Grand Ayatollah Sistani weighed in on the issue."
+      "id": 2256,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Islamic views on anal sex",
+      "teaserText": "There are fatwas for everything. Even Grand Ayatollah Sistani weighed in on the issue."
     },
     {
-        "id": 2257,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Jedi census phenomenon",
-        "teaserText": "A phenomenon in which 390,000 British citizens listed their religion as \"Jedi Knight\" on a 2001 census form, which would've made it the fourth-largest religion in England and Wales."
+      "id": 2257,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Jedi census phenomenon",
+      "teaserText": "A phenomenon in which 390,000 British citizens listed their religion as \"Jedi Knight\" on a 2001 census form, which would've made it the fourth-largest religion in England and Wales."
     },
     {
-        "id": 2258,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Jerusalem syndrome",
-        "teaserText": "For some people, a visit there is just too much."
+      "id": 2258,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Jerusalem syndrome",
+      "teaserText": "For some people, a visit there is just too much."
     },
     {
-        "id": 2259,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Jesus H. Christ",
-        "teaserText": "Does it stand for Henry?"
+      "id": 2259,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Jesus H. Christ",
+      "teaserText": "Does it stand for Henry?"
     },
     {
-        "id": 2260,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Jewish pope Andreas",
-        "teaserText": "A Jewish pope..?"
+      "id": 2260,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Jewish pope Andreas",
+      "teaserText": "A Jewish pope..?"
     },
     {
-        "id": 2261,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Johnson cult",
-        "teaserText": "Was US President Lyndon B. Johnson worshiped as a god in Papua New Guinea?"
+      "id": 2261,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Johnson cult",
+      "teaserText": "Was US President Lyndon B. Johnson worshiped as a god in Papua New Guinea?"
     },
     {
-        "id": 2262,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Kacchera",
-        "teaserText": "Sikh underwear."
+      "id": 2262,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Kacchera",
+      "teaserText": "Sikh underwear."
     },
     {
-        "id": 2263,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Kolob",
-        "teaserText": "Which star does God live on?"
+      "id": 2263,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Kolob",
+      "teaserText": "Which star does God live on?"
     },
     {
-        "id": 2264,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "List of UFO religions",
-        "teaserText": "Our Father, which art in spaceship..."
+      "id": 2264,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "List of UFO religions",
+      "teaserText": "Our Father, which art in spaceship..."
     },
     {
-        "id": 2265,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "List of people claimed to be Jesus",
-        "teaserText": "Christ has risen...again...and again."
+      "id": 2265,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "List of people claimed to be Jesus",
+      "teaserText": "Christ has risen...again...and again."
     },
     {
-        "id": 2266,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Matshishkapeu",
-        "teaserText": "The \"fart man\" of Innu mythology. Don't cross him or he'll make you constipated."
+      "id": 2266,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Matshishkapeu",
+      "teaserText": "The \"fart man\" of Innu mythology. Don't cross him or he'll make you constipated."
     },
     {
-        "id": 2267,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Mental health of Jesus",
-        "teaserText": "Jesus? Are you okay?"
+      "id": 2267,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Mental health of Jesus",
+      "teaserText": "Jesus? Are you okay?"
     },
     {
-        "id": 2268,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Miracle of the Sun",
-        "teaserText": "70,000 people in Portugal gather to witness a miracle and are treated to an inexplicable solar event."
+      "id": 2268,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Miracle of the Sun",
+      "teaserText": "70,000 people in Portugal gather to witness a miracle and are treated to an inexplicable solar event."
     },
     {
-        "id": 2269,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Movement for the Restoration of the Ten Commandments of God",
-        "teaserText": "Suicide cult or mass murder? You decide."
+      "id": 2269,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Movement for the Restoration of the Ten Commandments of God",
+      "teaserText": "Suicide cult or mass murder? You decide."
     },
     {
-        "id": 2270,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Non-canonical books referenced in the Bible",
-        "teaserText": "The Bible refers to lost books – even pagan ones – much more than you'd think."
+      "id": 2270,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Non-canonical books referenced in the Bible",
+      "teaserText": "The Bible refers to lost books – even pagan ones – much more than you'd think."
     },
     {
-        "id": 2271,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Open-source religion",
-        "teaserText": "And we're not talking about the Church of Emacs either."
+      "id": 2271,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Open-source religion",
+      "teaserText": "And we're not talking about the Church of Emacs either."
     },
     {
-        "id": 2272,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Our Lady of Perpetual Exemption",
-        "teaserText": "A legally recognized religion created by comedian John Oliver for the sole purpose of exempting his show from taxes by way of the Religious Tax Exemption."
+      "id": 2272,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Our Lady of Perpetual Exemption",
+      "teaserText": "A legally recognized religion created by comedian John Oliver for the sole purpose of exempting his show from taxes by way of the Religious Tax Exemption."
     },
     {
-        "id": 2273,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Pope Joan",
-        "teaserText": "Medieval documents cite the existence of a female pope – proof of a Vatican cover up or a blasphemous slur?"
+      "id": 2273,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Pope Joan",
+      "teaserText": "Medieval documents cite the existence of a female pope – proof of a Vatican cover up or a blasphemous slur?"
     },
     {
-        "id": 2274,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Pope Michael",
-        "teaserText": "Elected Pope in 1990 by a group of Conclavist or post-Sedevacantist Catholics to fill the vacancy they consider to have been caused by the death of Pope Pius XII in 1958."
+      "id": 2274,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Pope Michael",
+      "teaserText": "Elected Pope in 1990 by a group of Conclavist or post-Sedevacantist Catholics to fill the vacancy they consider to have been caused by the death of Pope Pius XII in 1958."
     },
     {
-        "id": 2275,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Prince Philip movement",
-        "teaserText": "A religious movement on the island of Tanna in Vanuatu which holds that Queen Elizabeth II's late husband, Prince Philip, Duke of Edinburgh, was a divine being."
+      "id": 2275,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Prince Philip movement",
+      "teaserText": "A religious movement on the island of Tanna in Vanuatu which holds that Queen Elizabeth II's late husband, Prince Philip, Duke of Edinburgh, was a divine being."
     },
     {
-        "id": 2276,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Pseudoskepticism",
-        "teaserText": "The philosophical or scientific argument that tries to appear skeptical, but really is trying to prove a position, as in \"I don’t see enough evidence that we landed on the moon\"."
+      "id": 2276,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Pseudoskepticism",
+      "teaserText": "The philosophical or scientific argument that tries to appear skeptical, but really is trying to prove a position, as in \"I don’t see enough evidence that we landed on the moon\"."
     },
     {
-        "id": 2277,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Pornocracy",
-        "teaserText": "The period of the papacy in the early 10th century, beginning with Pope Sergius III from 904 and ending with the death of Pope John XII in 963. During this period, the popes were under the influence of corrupt women (though not necessarily prostitutes), especially Theodora and her daughter, Marozia. This period is also called Saeculum obscurum or the \"Rule of the Harlots\"."
+      "id": 2277,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Pornocracy",
+      "teaserText": "The period of the papacy in the early 10th century, beginning with Pope Sergius III from 904 and ending with the death of Pope John XII in 963. During this period, the popes were under the influence of corrupt women (though not necessarily prostitutes), especially Theodora and her daughter, Marozia. This period is also called Saeculum obscurum or the \"Rule of the Harlots\"."
     },
     {
-        "id": 2278,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Sin-eater",
-        "teaserText": "An old belief that someone eating over a body would consume the sins of the deceased."
+      "id": 2278,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Sin-eater",
+      "teaserText": "An old belief that someone eating over a body would consume the sins of the deceased."
     },
     {
-        "id": 2279,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Religion in Antarctica",
-        "teaserText": "There's no continent on Earth without organized religion."
+      "id": 2279,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Religion in Antarctica",
+      "teaserText": "There's no continent on Earth without organized religion."
     },
     {
-        "id": 2280,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Reincarnation Application",
-        "teaserText": "Must be filed by all living Buddha within the People's Republic of China before they are allowed to reincarnate."
+      "id": 2280,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Reincarnation Application",
+      "teaserText": "Must be filed by all living Buddha within the People's Republic of China before they are allowed to reincarnate."
     },
     {
-        "id": 2281,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Religious pareidolia",
-        "teaserText": "A tendency to see religious imagery in the textures of corn chips, cinnamon rolls, toast, clouds, etc."
+      "id": 2281,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Religious pareidolia",
+      "teaserText": "A tendency to see religious imagery in the textures of corn chips, cinnamon rolls, toast, clouds, etc."
     },
     {
-        "id": 2282,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Ruben Enaje",
-        "teaserText": "A former construction worker from the Philippines who has been voluntarily crucified 33 times as of 2019."
+      "id": 2282,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Ruben Enaje",
+      "teaserText": "A former construction worker from the Philippines who has been voluntarily crucified 33 times as of 2019."
     },
     {
-        "id": 2283,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Rumspringa",
-        "teaserText": "Amish Gone Wild."
+      "id": 2283,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Rumspringa",
+      "teaserText": "Amish Gone Wild."
     },
     {
-        "id": 2284,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Saint Guinefort",
-        "teaserText": "A Saint who was also a dog. Not to be confused with this Saint, who was also a dog. Sort of."
+      "id": 2284,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Saint Guinefort",
+      "teaserText": "A Saint who was also a dog. Not to be confused with this Saint, who was also a dog. Sort of."
     },
     {
-        "id": 2285,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Saint Urho",
-        "teaserText": "A fictitious saint of Finland created in Minnesota."
+      "id": 2285,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Saint Urho",
+      "teaserText": "A fictitious saint of Finland created in Minnesota."
     },
     {
-        "id": 2286,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "St. Priapus Church",
-        "teaserText": "A religion based on the worship of the phallus."
+      "id": 2286,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "St. Priapus Church",
+      "teaserText": "A religion based on the worship of the phallus."
     },
     {
-        "id": 2287,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Space opera in Scientology",
-        "teaserText": "L. Ron Hubbard's history of the universe, including alien Invader Forces, \"little orange-colored bombs that would talk\" and brainwashing episodes in \"a railway carriage quite like a British railway coach with compartments\"."
+      "id": 2287,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Space opera in Scientology",
+      "teaserText": "L. Ron Hubbard's history of the universe, including alien Invader Forces, \"little orange-colored bombs that would talk\" and brainwashing episodes in \"a railway carriage quite like a British railway coach with compartments\"."
     },
     {
-        "id": 2288,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Sudanese teddy bear blasphemy case",
-        "teaserText": "How a British schoolteacher teaching overseas in Sudan got in trouble for letting her six-year-old students name a teddy bear \"Muhammad\"."
+      "id": 2288,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Sudanese teddy bear blasphemy case",
+      "teaserText": "How a British schoolteacher teaching overseas in Sudan got in trouble for letting her six-year-old students name a teddy bear \"Muhammad\"."
     },
     {
-        "id": 2289,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Church of the SubGenius",
-        "teaserText": "A parody religion created in Texas which preaches that a 1950s salesman, who is also a yeti, is their messiah and tries to protect people from the numerous conspiracies that haunt their lives."
+      "id": 2289,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Church of the SubGenius",
+      "teaserText": "A parody religion created in Texas which preaches that a 1950s salesman, who is also a yeti, is their messiah and tries to protect people from the numerous conspiracies that haunt their lives."
     },
     {
-        "id": 2290,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Taghairm",
-        "teaserText": "A couple of uncomfortable methods of fortune telling."
+      "id": 2290,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Taghairm",
+      "teaserText": "A couple of uncomfortable methods of fortune telling."
     },
     {
-        "id": 2291,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Tiberius Julius Abdes Pantera",
-        "teaserText": "Was Jesus' father buried in Germany?"
+      "id": 2291,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Tiberius Julius Abdes Pantera",
+      "teaserText": "Was Jesus' father buried in Germany?"
     },
     {
-        "id": 2292,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Tlazōlteōtl",
-        "teaserText": "Aztec god of vice, purification, steam baths, lust, filth, and a patroness of adulterers."
+      "id": 2292,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Tlazōlteōtl",
+      "teaserText": "Aztec god of vice, purification, steam baths, lust, filth, and a patroness of adulterers."
     },
     {
-        "id": 2293,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Toilet god",
-        "teaserText": "God living in the toilet."
+      "id": 2293,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Toilet god",
+      "teaserText": "God living in the toilet."
     },
     {
-        "id": 2294,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Turtles all the way down",
-        "teaserText": "A myth about the nature of the universe, or perhaps a myth about a myth about the nature of the universe."
+      "id": 2294,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Turtles all the way down",
+      "teaserText": "A myth about the nature of the universe, or perhaps a myth about a myth about the nature of the universe."
     },
     {
-        "id": 2295,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Raël",
-        "teaserText": "A French journalist who started a religion named after himself in the 1970s."
+      "id": 2295,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Raël",
+      "teaserText": "A French journalist who started a religion named after himself in the 1970s."
     },
     {
-        "id": 2296,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Unfulfilled Christian religious predictions",
-        "teaserText": "Doomsdays that didn't."
+      "id": 2296,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Unfulfilled Christian religious predictions",
+      "teaserText": "Doomsdays that didn't."
     },
     {
-        "id": 2297,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "United Nation of Islam",
-        "teaserText": "Royall, Allah in Person claims to have spent the 1980s in a spaceship with angels who informed him that he was God and instructed him on how to govern the world. Public records say he was a truck driver."
+      "id": 2297,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "United Nation of Islam",
+      "teaserText": "Royall, Allah in Person claims to have spent the 1980s in a spaceship with angels who informed him that he was God and instructed him on how to govern the world. Public records say he was a truck driver."
     },
     {
-        "id": 2298,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Universe People",
-        "teaserText": "Specific cult in Czech Republic and Slovakia."
+      "id": 2298,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Universe People",
+      "teaserText": "Specific cult in Czech Republic and Slovakia."
     },
     {
-        "id": 2299,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "The Urantia Book",
-        "teaserText": "Over two thousand pages of anonymous, religious, subconscious ramblings on religion and \"God\" (whatever that means in the billion planets out there)."
+      "id": 2299,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "The Urantia Book",
+      "teaserText": "Over two thousand pages of anonymous, religious, subconscious ramblings on religion and \"God\" (whatever that means in the billion planets out there)."
     },
     {
-        "id": 2300,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Wicked Bible",
-        "teaserText": "A 1631 reprint of the King James Bible, which contained an infamous printing mistake."
+      "id": 2300,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Wicked Bible",
+      "teaserText": "A 1631 reprint of the King James Bible, which contained an infamous printing mistake."
     },
     {
-        "id": 2301,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Yakub (Nation of Islam)",
-        "teaserText": "Mad scientist creates white race."
+      "id": 2301,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Yakub (Nation of Islam)",
+      "teaserText": "Mad scientist creates white race."
     },
     {
-        "id": 2302,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Xenu",
-        "teaserText": "An ancient interstellar dictator who unleashed a genocide which created Christianity and psychiatry and whose story is \"calculated to kill (by pneumonia etc.) anyone who attempts to solve it\"."
+      "id": 2302,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Xenu",
+      "teaserText": "An ancient interstellar dictator who unleashed a genocide which created Christianity and psychiatry and whose story is \"calculated to kill (by pneumonia etc.) anyone who attempts to solve it\"."
     },
     {
-        "id": 2303,
-        "categoryId": 12,
-        "subCategoryId": "",
-        "title": "Zipporah at the inn",
-        "teaserText": "God apparently tries (and fails) to kill Moses."
+      "id": 2303,
+      "categoryId": 12,
+      "subCategoryId": 998,
+      "title": "Zipporah at the inn",
+      "teaserText": "God apparently tries (and fails) to kill Moses."
     },
     {
       "id": 2304,
@@ -17137,443 +17131,443 @@
     {
       "id": 2404,
       "categoryId": 14,
-      "subCategoryId": "",
+      "subCategoryId": 999,
       "title": "Badge Man",
       "teaserText": "Unknown figure reportedly visible atop the grassy knoll in the Moorman photo of the Kennedy assassination."
     },
     {
-        "id": 2405,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Lal Bihari",
-        "teaserText": "An Indian, who, among other things, ran for elected office despite the notable handicap of being officially dead."
+      "id": 2405,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Lal Bihari",
+      "teaserText": "An Indian, who, among other things, ran for elected office despite the notable handicap of being officially dead."
     },
     {
-        "id": 2406,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Richard Chase",
-        "teaserText": "The only way to stop the Nazi-controlled UFOs from poisoning your macaroni and cheese is to inject yourself with animal blood and eat human brains."
+      "id": 2406,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Richard Chase",
+      "teaserText": "The only way to stop the Nazi-controlled UFOs from poisoning your macaroni and cheese is to inject yourself with animal blood and eat human brains."
     },
     {
-        "id": 2407,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Coffin birth",
-        "teaserText": "When a pregnant woman dies, the decomposition of her body can result in a gas build-up that causes the fetus inside her to be expelled."
+      "id": 2407,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Coffin birth",
+      "teaserText": "When a pregnant woman dies, the decomposition of her body can result in a gas build-up that causes the fetus inside her to be expelled."
     },
     {
-        "id": 2408,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Collyer brothers",
-        "teaserText": "When packratting was taken to a tragic extreme."
+      "id": 2408,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Collyer brothers",
+      "teaserText": "When packratting was taken to a tragic extreme."
     },
     {
-        "id": 2409,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Death by coconut",
-        "teaserText": "You can die if a coconut falls on your coconut."
+      "id": 2409,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Death by coconut",
+      "teaserText": "You can die if a coconut falls on your coconut."
     },
     {
-        "id": 2410,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Death by GPS",
-        "teaserText": "Turn-by-turn directions to the afterlife."
+      "id": 2410,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Death by GPS",
+      "teaserText": "Turn-by-turn directions to the afterlife."
     },
     {
-        "id": 2411,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Death during consensual sex",
-        "teaserText": "Going out with a bang."
+      "id": 2411,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Death during consensual sex",
+      "teaserText": "Going out with a bang."
     },
     {
-        "id": 2412,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Death erection",
-        "teaserText": "Usually not related to the above."
+      "id": 2412,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Death erection",
+      "teaserText": "Usually not related to the above."
     },
     {
-        "id": 2413,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Death from laughter",
-        "teaserText": "Don't laugh – it's happened."
+      "id": 2413,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Death from laughter",
+      "teaserText": "Don't laugh – it's happened."
     },
     {
-        "id": 2414,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Death by misadventure",
-        "teaserText": "Death probably due after one saying \"Hold my beer, and watch this!\""
+      "id": 2414,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Death by misadventure",
+      "teaserText": "Death probably due after one saying \"Hold my beer, and watch this!\""
     },
     {
-        "id": 2415,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Defenestration",
-        "teaserText": "The time-honoured tradition of throwing people out of windows."
+      "id": 2415,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Defenestration",
+      "teaserText": "The time-honoured tradition of throwing people out of windows."
     },
     {
-        "id": 2416,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Disappearance of Frederick Valentich",
-        "teaserText": "An Australian pilot disappeared in the ocean, having seen a strange object above his aircraft. No trace of either his body or the aircraft have been found."
+      "id": 2416,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Disappearance of Frederick Valentich",
+      "teaserText": "An Australian pilot disappeared in the ocean, having seen a strange object above his aircraft. No trace of either his body or the aircraft have been found."
     },
     {
-        "id": 2417,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Dyatlov Pass Incident",
-        "teaserText": "A group of Russian hikers attempt to escape an unknown horror on \"Death Mountain.\""
+      "id": 2417,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Dyatlov Pass Incident",
+      "teaserText": "A group of Russian hikers attempt to escape an unknown horror on \"Death Mountain.\""
     },
     {
-        "id": 2418,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Euthanasia Coaster",
-        "teaserText": "A roller coaster intended to kill its passengers."
+      "id": 2418,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Euthanasia Coaster",
+      "teaserText": "A roller coaster intended to kill its passengers."
     },
     {
-        "id": 2419,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Execution by elephant",
-        "teaserText": "An unusual form of capital punishment used throughout history. (See also History of elephants in Europe.)"
+      "id": 2419,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Execution by elephant",
+      "teaserText": "An unusual form of capital punishment used throughout history. (See also History of elephants in Europe.)"
     },
     {
-        "id": 2420,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Fan death",
-        "teaserText": "A persistent urban legend in South Korea, where the media – and even medical professionals – regularly report on people dying because they left a fan running in a closed room."
+      "id": 2420,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Fan death",
+      "teaserText": "A persistent urban legend in South Korea, where the media – and even medical professionals – regularly report on people dying because they left a fan running in a closed room."
     },
     {
-        "id": 2421,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Generalissimo Francisco Franco is still dead",
-        "teaserText": "An early catch phrase used on Saturday Night Live, based upon the dictator's lengthy death."
+      "id": 2421,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Generalissimo Francisco Franco is still dead",
+      "teaserText": "An early catch phrase used on Saturday Night Live, based upon the dictator's lengthy death."
     },
     {
-        "id": 2422,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Ghost bike",
-        "teaserText": "Bicycle rider in memoriam."
+      "id": 2422,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Ghost bike",
+      "teaserText": "Bicycle rider in memoriam."
     },
     {
-        "id": 2423,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Hammersmith nude murders",
-        "teaserText": "Murders that involved the other unidentified serial killer named Jack, with the title \"the Stripper\"."
+      "id": 2423,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Hammersmith nude murders",
+      "teaserText": "Murders that involved the other unidentified serial killer named Jack, with the title \"the Stripper\"."
     },
     {
-        "id": 2424,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "The Hands of Che Guevara",
-        "teaserText": "Documentary about the search for the severed hands of the Latin American guerrilla fighter Ernesto Che Guevara, who was captured and executed by Bolivian Special Forces in October 1967."
+      "id": 2424,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "The Hands of Che Guevara",
+      "teaserText": "Documentary about the search for the severed hands of the Latin American guerrilla fighter Ernesto Che Guevara, who was captured and executed by Bolivian Special Forces in October 1967."
     },
     {
-        "id": 2425,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Hell money",
-        "teaserText": "Apparently, the Chinese afterlife is subject to hyperinflation."
+      "id": 2425,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Hell money",
+      "teaserText": "Apparently, the Chinese afterlife is subject to hyperinflation."
     },
     {
-        "id": 2426,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Sogen Kato",
-        "teaserText": "Believed to be the oldest living man in Tokyo... until the discovery of his 30-year-old mummified corpse."
+      "id": 2426,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Sogen Kato",
+      "teaserText": "Believed to be the oldest living man in Tokyo... until the discovery of his 30-year-old mummified corpse."
     },
     {
-        "id": 2427,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Kennedy curse",
-        "teaserText": "Apparently John F. Kennedy was not the only Kennedy to meet an early demise-far from it."
+      "id": 2427,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Kennedy curse",
+      "teaserText": "Apparently John F. Kennedy was not the only Kennedy to meet an early demise-far from it."
     },
     {
-        "id": 2428,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Kick the bucket",
-        "teaserText": "A heated argument lies behind the origin of this idiom."
+      "id": 2428,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Kick the bucket",
+      "teaserText": "A heated argument lies behind the origin of this idiom."
     },
     {
-        "id": 2429,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Lampshades made from human skin",
-        "teaserText": "They probably wouldn't even be that good at diffusing light."
+      "id": 2429,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Lampshades made from human skin",
+      "teaserText": "They probably wouldn't even be that good at diffusing light."
     },
     {
-        "id": 2430,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Ricardo López",
-        "teaserText": "An obsessed fan who attempted to kill Icelandic singer Björk by a letter bomb rigged with sulfuric acid."
+      "id": 2430,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Ricardo López",
+      "teaserText": "An obsessed fan who attempted to kill Icelandic singer Björk by a letter bomb rigged with sulfuric acid."
     },
     {
-        "id": 2431,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Henry Lee Lucas",
-        "teaserText": "Claimed to be the most prolific serial killer in history, confessing to over 600 murders. Later recanted almost all of them."
+      "id": 2431,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Henry Lee Lucas",
+      "teaserText": "Claimed to be the most prolific serial killer in history, confessing to over 600 murders. Later recanted almost all of them."
     },
     {
-        "id": 2432,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "List of expressions related to death",
-        "teaserText": "\"Go home in a box\", \"go bung\", \"hop the stick\", ..."
+      "id": 2432,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "List of expressions related to death",
+      "teaserText": "\"Go home in a box\", \"go bung\", \"hop the stick\", ..."
     },
     {
-        "id": 2433,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "List of people who died on the toilet",
-        "teaserText": "You could say they died on the throne"
+      "id": 2433,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "List of people who died on the toilet",
+      "teaserText": "You could say they died on the throne"
     },
     {
-        "id": 2434,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "List of entertainers who died during a performance",
-        "teaserText": "\"And for my last act...I shall die and not come back to life\""
+      "id": 2434,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "List of entertainers who died during a performance",
+      "teaserText": "\"And for my last act...I shall die and not come back to life\""
     },
     {
-        "id": 2435,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "List of postal killings",
-        "teaserText": "\"Don't let Walter Hobbs deceive you; this life is not all shiny bins and fun\", ..."
+      "id": 2435,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "List of postal killings",
+      "teaserText": "\"Don't let Walter Hobbs deceive you; this life is not all shiny bins and fun\", ..."
     },
     {
-        "id": 2436,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "List of selfie-related injuries and deaths",
-        "teaserText": "Extreme cases of people being unaware of their surroundings."
+      "id": 2436,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "List of selfie-related injuries and deaths",
+      "teaserText": "Extreme cases of people being unaware of their surroundings."
     },
     {
-        "id": 2437,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Lead Masks Case",
-        "teaserText": "Two electricians tried to contact aliens with psychedelic drugs and masks made out of lead. They died shortly after."
+      "id": 2437,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Lead Masks Case",
+      "teaserText": "Two electricians tried to contact aliens with psychedelic drugs and masks made out of lead. They died shortly after."
     },
     {
-        "id": 2438,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "London Necropolis railway station",
-        "teaserText": "Single tickets only, unless you're a mourner or other visitor."
+      "id": 2438,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "London Necropolis railway station",
+      "teaserText": "Single tickets only, unless you're a mourner or other visitor."
     },
     {
-        "id": 2439,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Lord Uxbridge's leg",
-        "teaserText": "The grisly afterlife of a leg lost during the Battle of Waterloo, formerly owned by Henry Paget, 1st Marquess of Anglesey."
+      "id": 2439,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Lord Uxbridge's leg",
+      "teaserText": "The grisly afterlife of a leg lost during the Battle of Waterloo, formerly owned by Henry Paget, 1st Marquess of Anglesey."
     },
     {
-        "id": 2440,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Maschalismos",
-        "teaserText": "The act of mutilating the dead to prevent them from rising again."
+      "id": 2440,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Maschalismos",
+      "teaserText": "The act of mutilating the dead to prevent them from rising again."
     },
     {
-        "id": 2441,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Michael Malloy",
-        "teaserText": "Like Rasputin, but homeless, drunk, and Irish."
+      "id": 2441,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Michael Malloy",
+      "teaserText": "Like Rasputin, but homeless, drunk, and Irish."
     },
     {
-        "id": 2442,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Ken McElroy",
-        "teaserText": "\"Nobody saw nothing\" taken to its logical extreme."
+      "id": 2442,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Ken McElroy",
+      "teaserText": "\"Nobody saw nothing\" taken to its logical extreme."
     },
     {
-        "id": 2443,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Micromort",
-        "teaserText": "A quantitative death risk equivalent to one in a million."
+      "id": 2443,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Micromort",
+      "teaserText": "A quantitative death risk equivalent to one in a million."
     },
     {
-        "id": 2444,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Mordred",
-        "teaserText": "Mordred is back for revenge—watch out!"
+      "id": 2444,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Mordred",
+      "teaserText": "Mordred is back for revenge—watch out!"
     },
     {
-        "id": 2445,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Herbert Mullin",
-        "teaserText": "Haven't had any earthquakes recently? Thank this man."
+      "id": 2445,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Herbert Mullin",
+      "teaserText": "Haven't had any earthquakes recently? Thank this man."
     },
     {
-        "id": 2446,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Oliver Cromwell's head",
-        "teaserText": "This English political leader's head has an interesting journey after its owner is posthumously executed, more so than the one he cut off himself."
+      "id": 2446,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Oliver Cromwell's head",
+      "teaserText": "This English political leader's head has an interesting journey after its owner is posthumously executed, more so than the one he cut off himself."
     },
     {
-        "id": 2447,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Richard Paul Pavlick",
-        "teaserText": "Plotted to kill then president-elect John F. Kennedy via suicide bombing, but delayed it upon seeing Kennedy with his family."
+      "id": 2447,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Richard Paul Pavlick",
+      "teaserText": "Plotted to kill then president-elect John F. Kennedy via suicide bombing, but delayed it upon seeing Kennedy with his family."
     },
     {
-        "id": 2448,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Poe Toaster",
-        "teaserText": "Not a kitchen appliance, but a mysterious figure who paid an annual tribute to American author Edgar Allan Poe."
+      "id": 2448,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Poe Toaster",
+      "teaserText": "Not a kitchen appliance, but a mysterious figure who paid an annual tribute to American author Edgar Allan Poe."
     },
     {
-        "id": 2449,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Post-mortem photography",
-        "teaserText": "Back in the early days of photography it was common to take pictures of recently deceased loved ones, propped up to look as if they were alive."
+      "id": 2449,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Post-mortem photography",
+      "teaserText": "Back in the early days of photography it was common to take pictures of recently deceased loved ones, propped up to look as if they were alive."
     },
     {
-        "id": 2450,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Refrigerator death",
-        "teaserText": "A cool way to die."
+      "id": 2450,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Refrigerator death",
+      "teaserText": "A cool way to die."
     },
     {
-        "id": 2451,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Republican marriage",
-        "teaserText": "A form of execution in which a naked man and woman are tied together and drowned. (What did you think it was?)"
+      "id": 2451,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Republican marriage",
+      "teaserText": "A form of execution in which a naked man and woman are tied together and drowned. (What did you think it was?)"
     },
     {
-        "id": 2452,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Rookwood Cemetery railway line",
-        "teaserText": "A former railway line that served a cemetery near Sydney."
+      "id": 2452,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Rookwood Cemetery railway line",
+      "teaserText": "A former railway line that served a cemetery near Sydney."
     },
     {
-        "id": 2453,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Safety coffin",
-        "teaserText": "Coffins manufactured just in case their tenant is not actually dead before being buried."
+      "id": 2453,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Safety coffin",
+      "teaserText": "Coffins manufactured just in case their tenant is not actually dead before being buried."
     },
     {
-        "id": 2454,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Salish Sea human foot discoveries",
-        "teaserText": "Dismembered feet keep washing up."
+      "id": 2454,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Salish Sea human foot discoveries",
+      "teaserText": "Dismembered feet keep washing up."
     },
     {
-        "id": 2455,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Frane Selak",
-        "teaserText": "Dubbed the luckiest/unluckiest man to exist, cheated death seven times and also managed to win the lottery!"
+      "id": 2455,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Frane Selak",
+      "teaserText": "Dubbed the luckiest/unluckiest man to exist, cheated death seven times and also managed to win the lottery!"
     },
     {
-        "id": 2456,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Sky burial",
-        "teaserText": "It's not really a form of burial. Also known as jhator which means \"giving alms to the birds.\""
+      "id": 2456,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Sky burial",
+      "teaserText": "It's not really a form of burial. Also known as jhator which means \"giving alms to the birds.\""
     },
     {
-        "id": 2457,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Sokushinbutsu",
-        "teaserText": "A practice of self-mummification among Buddhist monks."
+      "id": 2457,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Sokushinbutsu",
+      "teaserText": "A practice of self-mummification among Buddhist monks."
     },
     {
-        "id": 2458,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Space burial",
-        "teaserText": "Around 150 people have had their remains interred in space. Or would that be ex-terred?"
+      "id": 2458,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Space burial",
+      "teaserText": "Around 150 people have had their remains interred in space. Or would that be ex-terred?"
     },
     {
-        "id": 2459,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Spontaneous human combustion",
-        "teaserText": "The sudden burning of a person's body without any apparent source of ignition."
+      "id": 2459,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Spontaneous human combustion",
+      "teaserText": "The sudden burning of a person's body without any apparent source of ignition."
     },
     {
-        "id": 2460,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Suicide booth",
-        "teaserText": "A common feature in the world of tomorrow."
+      "id": 2460,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Suicide booth",
+      "teaserText": "A common feature in the world of tomorrow."
     },
     {
-        "id": 2461,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Tamam Shud case",
-        "teaserText": "A dead man is found on an Australian beach with no identification and a bizarre fragment of a book in his pocket. To this day, his identity and cause of death are still unknown."
+      "id": 2461,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Tamam Shud case",
+      "teaserText": "A dead man is found on an Australian beach with no identification and a bizarre fragment of a book in his pocket. To this day, his identity and cause of death are still unknown."
     },
     {
-        "id": 2462,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Toilet-related injuries and deaths",
-        "teaserText": "As if constipation wasn't enough."
+      "id": 2462,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Toilet-related injuries and deaths",
+      "teaserText": "As if constipation wasn't enough."
     },
     {
-        "id": 2463,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Uttar Pradesh Association of Dead People",
-        "teaserText": "A group of Indians suffering more from theft than cardiac failure."
+      "id": 2463,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Uttar Pradesh Association of Dead People",
+      "teaserText": "A group of Indians suffering more from theft than cardiac failure."
     },
     {
-        "id": 2464,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Joyce Vincent",
-        "teaserText": "A woman who sat dead in her home with the TV and heater running and Christmas presents on her lap for three years until her corpse was found."
+      "id": 2464,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Joyce Vincent",
+      "teaserText": "A woman who sat dead in her home with the TV and heater running and Christmas presents on her lap for three years until her corpse was found."
     },
     {
-        "id": 2465,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Video-Enhanced Grave Marker",
-        "teaserText": "Graves with video screens and speakers on them."
+      "id": 2465,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Video-Enhanced Grave Marker",
+      "teaserText": "Graves with video screens and speakers on them."
     },
     {
-        "id": 2466,
-        "categoryId": 14,
-        "subCategoryId": "",
-        "title": "Xin Zhui",
-        "teaserText": "A remarkably preserved Chinese mummy from 163 B.C. with all features and soft tissue still intact."
+      "id": 2466,
+      "categoryId": 14,
+      "subCategoryId": 999,
+      "title": "Xin Zhui",
+      "teaserText": "A remarkably preserved Chinese mummy from 163 B.C. with all features and soft tissue still intact."
     }
   ]
 }
