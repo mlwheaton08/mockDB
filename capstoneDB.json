@@ -49,50 +49,7 @@
       "id": 8
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "userId": 1,
-      "articleId": 9,
-      "text": "This was so interesting.",
-      "timePosted": 1665530900287
-    },
-    {
-      "id": 2,
-      "userId": 2,
-      "articleId": 9,
-      "text": "Idk about this one.",
-      "timePosted": 1665530960287
-    },
-    {
-      "id": 3,
-      "userId": 3,
-      "articleId": 9,
-      "text": "LMAO",
-      "timePosted": 1665530910287
-    },
-    {
-      "id": 4,
-      "userId": 1,
-      "articleId": 100,
-      "text": "Gonna tell my friends about this one.",
-      "timePosted": 1665530920287
-    },
-    {
-      "id": 5,
-      "userId": 4,
-      "articleId": 100,
-      "text": "i got bags in the coop",
-      "timePosted": 1665530950287
-    },
-    {
-      "id": 6,
-      "userId": 5,
-      "articleId": 100,
-      "text": "Pretty good read.",
-      "timePosted": 1665532900287
-    }
-  ],
+  "comments": [],
   "favorites": [
     {
       "id": 5,
