@@ -121,6 +121,34 @@
       "articleId": 600,
       "categoryId": 5,
       "subCategoryId": 17
+    },
+    {
+      "userId": 1,
+      "articleId": 1,
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "articleId": 296,
+      "categoryId": 2,
+      "subCategoryId": 997,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "articleId": 316,
+      "categoryId": 2,
+      "subCategoryId": 997,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "articleId": 317,
+      "categoryId": 2,
+      "subCategoryId": 997,
+      "id": 12
     }
   ],
   "savedForLater": [],
@@ -10664,7 +10692,7 @@
       "id": 1479,
       "categoryId": 7,
       "subCategoryId": 49,
-      "title": "\"Dennō Senshi Porygon\"",
+      "title": "Dennō Senshi Porygon",
       "teaserText": "An episode of the \"harmless\" Pokémon cartoon that caused seizures in almost 700 children."
     },
     {
@@ -10720,7 +10748,7 @@
       "id": 1487,
       "categoryId": 7,
       "subCategoryId": 49,
-      "title": "History of Pop",
+      "title": "History of Pop (American TV channel)",
       "teaserText": "How a TV program guide became an actual channel."
     },
     {
