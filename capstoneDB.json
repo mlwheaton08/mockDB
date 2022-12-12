@@ -80,13 +80,6 @@
     },
     {
       "userId": 1,
-      "articleId": 1,
-      "text": "asdf",
-      "timePosted": 1670560590222,
-      "id": 11
-    },
-    {
-      "userId": 1,
       "articleId": 2,
       "text": "Hi I am Dion!",
       "timePosted": 1670699870784,
@@ -128,6 +121,27 @@
       "categoryId": 2,
       "subCategoryId": 997,
       "id": 12
+    },
+    {
+      "userId": 1,
+      "articleId": 1,
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "articleId": 2,
+      "categoryId": 1,
+      "subCategoryId": 1,
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "articleId": 2306,
+      "categoryId": 13,
+      "subCategoryId": 70,
+      "id": 15
     }
   ],
   "savedForLater": [],
@@ -12323,7 +12337,7 @@
       "id": 1717,
       "categoryId": 8,
       "subCategoryId": 55,
-      "title": "Grapefruit juice–drug interactions",
+      "title": "Grapefruit–drug interactions",
       "teaserText": "Be careful – that delicious food item could be dangerous to prescription-drug users."
     },
     {
