@@ -49,7 +49,50 @@
       "id": 8
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "userId": 2,
+      "articleId": 2,
+      "text": "Comment",
+      "timePosted": 1670554881048,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "articleId": 2,
+      "text": "Hi",
+      "timePosted": 1670554904146,
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "articleId": 2,
+      "text": "",
+      "timePosted": 1670559451484,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "articleId": 1,
+      "text": "asdfasdf",
+      "timePosted": 1670560588574,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "articleId": 1,
+      "text": "asdf",
+      "timePosted": 1670560590222,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "articleId": 2,
+      "text": "Hi I am Dion!",
+      "timePosted": 1670699870784,
+      "id": 12
+    }
+  ],
   "favorites": [
     {
       "id": 5,
@@ -78,27 +121,6 @@
       "articleId": 600,
       "categoryId": 5,
       "subCategoryId": 17
-    },
-    {
-      "userId": 1,
-      "articleId": 1,
-      "categoryId": 1,
-      "subCategoryId": 1,
-      "id": 9
-    },
-    {
-      "userId": 1,
-      "articleId": 296,
-      "categoryId": 2,
-      "subCategoryId": 997,
-      "id": 10
-    },
-    {
-      "userId": 1,
-      "articleId": 316,
-      "categoryId": 2,
-      "subCategoryId": 997,
-      "id": 11
     },
     {
       "userId": 1,
@@ -3200,7 +3222,7 @@
     {
       "categoryId": 4,
       "subCategoryId": 11,
-      "title": "Chinese word for \"crisis\"",
+      "title": "Chinese word for crisis",
       "teaserText": "More notable among Americans than among the Chinese, apparently.",
       "id": 414
     },
@@ -4300,7 +4322,7 @@
       "id": 572,
       "categoryId": 5,
       "subCategoryId": 15,
-      "title": "Mumbai \"sweet\" seawater incident",
+      "title": "Mumbai sweet seawater incident",
       "teaserText": "Salty creek becomes sweet for one tide cycle."
     },
     {
@@ -7195,13 +7217,6 @@
       "teaserText": "A 1970s organization whose campaign was to end pay toilets in the United States of America."
     },
     {
-      "id": 986,
-      "categoryId": 6,
-      "subCategoryId": 33,
-      "title": "\"Darkie\" toothpaste",
-      "teaserText": "Racist toothpaste from Taiwan."
-    },
-    {
       "id": 987,
       "categoryId": 6,
       "subCategoryId": 33,
@@ -7716,7 +7731,7 @@
       "id": 1060,
       "categoryId": 6,
       "subCategoryId": 35,
-      "title": "Society for the Prevention of Calling Sleeping Car Porters \"George\"",
+      "title": "Society for the Prevention of Calling Sleeping Car Porters George",
       "teaserText": "An association formed to oppose the custom of addressing railway sleeping car porters as \"George\" regardless of their actual name."
     },
     {
@@ -8052,7 +8067,7 @@
       "id": 1108,
       "categoryId": 7,
       "subCategoryId": 37,
-      "title": "\"The Aristocrats\"",
+      "title": "The Aristocrats",
       "teaserText": "A joke considered to be both \"the world's funniest\" and \"the world's worst\". Also a 2005 documentary of the same name."
     },
     {
@@ -8073,7 +8088,7 @@
       "id": 1111,
       "categoryId": 7,
       "subCategoryId": 37,
-      "title": "\"Boys are stupid, throw rocks at them!\" controversy",
+      "title": "Boys are stupid, throw rocks at them! controversy",
       "teaserText": "T-shirt slogan aimed towards young women, rocks aimed towards young men."
     },
     {
@@ -9074,7 +9089,7 @@
       "id": 1254,
       "categoryId": 7,
       "subCategoryId": 40,
-      "title": "\"For sale: baby shoes, never worn\"",
+      "title": "For sale: baby shoes, never worn",
       "teaserText": "Supposedly the shortest story possible in the English language, though Ernest Hemingway had nothing to do with it."
     },
     {
@@ -9172,7 +9187,7 @@
       "id": 1268,
       "categoryId": 7,
       "subCategoryId": 40,
-      "title": "\"Lion-Eating Poet in the Stone Den\"",
+      "title": "Lion-Eating Poet in the Stone Den",
       "teaserText": "A poem written by a Chinese poet in Classical Chinese. It can be read and understood by all who understand the language, even though it consists entirely of the word \"shi\" repeated 92 times in different tones."
     },
     {
@@ -9396,14 +9411,14 @@
       "id": 1300,
       "categoryId": 7,
       "subCategoryId": 41,
-      "title": "\"Brian Wilson is a genius\"",
+      "title": "Brian Wilson is a genius",
       "teaserText": "A music journalist's meme from the 1960s that arguably destroyed the career of the Beach Boys' main songwriter and producer. (Within three years, Wilson was working as a grocery store cashier.)"
     },
     {
       "id": 1301,
       "categoryId": 7,
       "subCategoryId": 41,
-      "title": "\"Clapton is God\"",
+      "title": "Clapton is God",
       "teaserText": "Graffiti that's famous for a photo of a dog urinating on it."
     },
     {
@@ -9515,14 +9530,14 @@
       "id": 1317,
       "categoryId": 7,
       "subCategoryId": 41,
-      "title": "\"More Cowbell\"",
+      "title": "More Cowbell",
       "teaserText": "I got a fever, and the only prescription... is more cowbell!"
     },
     {
       "id": 1318,
       "categoryId": 7,
       "subCategoryId": 41,
-      "title": "\"More popular than Jesus\"",
+      "title": "More popular than Jesus",
       "teaserText": "A remark that later proved deadly for John Lennon."
     },
     {
@@ -9543,7 +9558,7 @@
       "id": 1321,
       "categoryId": 7,
       "subCategoryId": 41,
-      "title": "\"My Way\" killings",
+      "title": "My Way killings",
       "teaserText": "You can get killed for singing Frank Sinatra's signature tune in the Philippines."
     },
     {
@@ -9557,7 +9572,7 @@
       "id": 1323,
       "categoryId": 7,
       "subCategoryId": 41,
-      "title": "\"Paul is dead\"",
+      "title": "Paul is dead",
       "teaserText": "Was Paul McCartney replaced by a lookalike in the 1960s?"
     },
     {
@@ -9599,7 +9614,7 @@
       "id": 1329,
       "categoryId": 7,
       "subCategoryId": 41,
-      "title": "\"Up to eleven\"",
+      "title": "Up to eleven",
       "teaserText": "This article is one louder."
     },
     {
@@ -9935,7 +9950,7 @@
       "id": 1377,
       "categoryId": 7,
       "subCategoryId": 45,
-      "title": "\"The Anacreontic Song\"",
+      "title": "The Anacreontic Song",
       "teaserText": "An 18th-century drinking song whose melody was later adopted for \"The Star-Spangled Banner\"."
     },
     {
@@ -9949,7 +9964,7 @@
       "id": 1379,
       "categoryId": 7,
       "subCategoryId": 45,
-      "title": "\"Carnival of Light\"",
+      "title": "Carnival of Light",
       "teaserText": "The Holy Grail for Beatles fans: an 11-minute recording of the Fab Four aimlessly bashing their instruments and shouting gibberish."
     },
     {
@@ -9970,7 +9985,7 @@
       "id": 1382,
       "categoryId": 7,
       "subCategoryId": 45,
-      "title": "\"Leck mich im Arsch\"",
+      "title": "Leck mich im Arsch",
       "teaserText": "A canon, whose title translates as \"Lick Me in the Arse\", by Wolfgang Amadeus Mozart."
     },
     {
@@ -9998,175 +10013,175 @@
       "id": 1386,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Boris Johnson Is a Fucking Cunt\"",
+      "title": "Boris Johnson Is a Fucking Cunt",
       "teaserText": "A foul-mouthed comedy punk song about the British Prime Minister that attempted to be the UK Christmas number one in 2020. Despite getting no air time, it got to No. 5. The following year, it spawned a sequel, which also got to No. 5 in the Christmas chart. From the same band that brought you \"Prince Andrew Is a Sweaty Nonce\"."
     },
     {
       "id": 1387,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Camouflage\"",
+      "title": "Camouflage",
       "teaserText": "A vinyl single from 1983 that contained a computer programme for the song's own music video for the ZX81. Created by a man who later found fame wearing a papier-mâché head."
     },
     {
       "id": 1388,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Eat Your Salad\"",
+      "title": "Eat Your Salad",
       "teaserText": "The Latvian entry of the Eurovision Song Contest 2022. The lyrics speak of \"eating veggies and p*ssy\", along with numerous other sexual innuendos. Somehow, the song still has a serious message."
     },
     {
       "id": 1389,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Euro-Vision\"",
+      "title": "Euro-Vision",
       "teaserText": "The Belgian entry of the Eurovision Song Contest 1980 whose lyrics spoke precisely of the event in which they took part."
     },
     {
       "id": 1390,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Five Per Cent for Nothing\"",
+      "title": "Five Per Cent for Nothing",
       "teaserText": "A very short instrumental by a band noted for very long songs that was retitled as a parting shot at their former manager, who sued them afterwards."
     },
     {
       "id": 1391,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Flappie\"",
+      "title": "Flappie",
       "teaserText": "A Dutch Christmas song about cannibalism."
     },
     {
       "id": 1392,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Give That Wolf a Banana\"",
+      "title": "Give That Wolf a Banana",
       "teaserText": "A song that combines Little Red Riding Hood and two crazy 4.5 billion year old yellow wolves called Keith and Jim. The meaning of the song is debated, but one common theory is of all things, vaccines. It's also a Eurovision song, to boot."
     },
     {
       "id": 1393,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Hitler Has Only Got One Ball\"",
+      "title": "Hitler Has Only Got One Ball",
       "teaserText": "Was der Führer only half a man?"
     },
     {
       "id": 1394,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Jeg har set en rigtig negermand\"",
+      "title": "Jeg har set en rigtig negermand",
       "teaserText": "A Danish #1 single from 1970, extolling the virtues of racial equality while calling a \"negro man\" \"black as a bucket of tar\"."
     },
     {
       "id": 1395,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Jiggle Jiggle\"",
+      "title": "Jiggle Jiggle",
       "teaserText": "That time when an autotuned interview with Louis Theroux became so popular they convinced him to do a song."
     },
     {
       "id": 1396,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Lift Yourself\"",
+      "title": "Lift Yourself",
       "teaserText": "What do you get when one of the world's most acclaimed rappers, who is also notoriously neurodivergent, decides a beat is too good for a rival rapper to own? Hint: Poopy-di scoop. Scoop-diddy-whoop. Whoop-di-scoop-di-poop."
     },
     {
       "id": 1397,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"The Most Mysterious Song on the Internet\"",
+      "title": "The Most Mysterious Song on the Internet",
       "teaserText": "The name says it all. (Well, almost.)"
     },
     {
       "id": 1398,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"The Most Unwanted Song\"",
+      "title": "The Most Unwanted Song",
       "teaserText": "Featuring operatic rapping, a children's choir urging listeners to go to Wal-Mart, bagpipes, cowboy music, and political slogans shouted through a bullhorn."
     },
     {
       "id": 1399,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Never Learn Not to Love\"",
+      "title": "Never Learn Not to Love",
       "teaserText": "The Beach Boys' collaboration with Charles Manson. (Yes, that Charles Manson.)"
     },
     {
       "id": 1400,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Nyah nyah nyah nyah nyah nyah\"",
+      "title": "Nyah nyah nyah nyah nyah nyah",
       "teaserText": "If you can see someone's underwear, here's the tune to tell them by."
     },
     {
       "id": 1401,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Prisencolinensinainciusol\"",
+      "title": "Prisencolinensinainciusol",
       "teaserText": "The song where the lyrics are deliberately unintelligible gibberish intended to sound to its Italian audience as if it is sung in English spoken with an American accent."
     },
     {
       "id": 1402,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Ram Ranch\"",
+      "title": "Ram Ranch",
       "teaserText": "A spoken-word heavy metal song about a gay cowboy orgy that became an internet meme and a counter-protest song against the Canadian convoy protest."
     },
     {
       "id": 1403,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Ready 'n' Steady\"",
+      "title": "Ready 'n' Steady",
       "teaserText": "A song mentioned in a top songs list of a notable magazine, that was long-believed by some to be non-existent because collectors were unable to find a recording or further information on it until 33 years after it was written."
     },
     {
       "id": 1404,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Tetris\"",
+      "title": "Tetris",
       "teaserText": "A Eurodance version of the Tetris theme co-produced by Andrew Lloyd Webber."
     },
     {
       "id": 1405,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"There's No One as Irish as Barack O'Bama\"",
+      "title": "There's No One as Irish as Barack O'Bama",
       "teaserText": "A 2008 song celebrating the Irish heritage of then-candidate for President of the United States Barack Obama."
     },
     {
       "id": 1406,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"Timothy\"",
+      "title": "Timothy",
       "teaserText": "A top 40 hit in 1970, written by Rupert Holmes of \"The Piña Colada Song\" fame, that gained success despite (or due to) the fact it was about cannibalism during a mining disaster."
     },
     {
       "id": 1407,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"United Breaks Guitars\"",
+      "title": "United Breaks Guitars",
       "teaserText": "A protest song against United Airlines which caused their stock price to fall by 10% and cost shareholders $180 million."
     },
     {
       "id": 1408,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"We Didn't Start the Fire\"",
+      "title": "We Didn't Start the Fire",
       "teaserText": "A song covering the major events of 40 years. Check Events mentioned for explanations of each."
     },
     {
       "id": 1409,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"You Suffer\"",
+      "title": "You Suffer",
       "teaserText": "At a full 1.316 seconds in length, the shortest song with a physical single release of all time."
     },
     {
       "id": 1410,
       "categoryId": 7,
       "subCategoryId": 46,
-      "title": "\"You're Pitiful\"",
+      "title": "You're Pitiful",
       "teaserText": "The true story of how a Weird Al Yankovic parody caused the article for Atlantic Records to be regularly vandalized."
     },
     {
@@ -10712,7 +10727,7 @@
       "id": 1488,
       "categoryId": 7,
       "subCategoryId": 49,
-      "title": "\"How to Eat with Your Butt\"",
+      "title": "How to Eat with Your Butt",
       "teaserText": "The plot and the title of this South Park episode are pretty strange."
     },
     {
@@ -10740,7 +10755,7 @@
       "id": 1492,
       "categoryId": 7,
       "subCategoryId": 49,
-      "title": "I Wanna Marry \"Harry\"",
+      "title": "I Wanna Marry Harry",
       "teaserText": "An American reality show to find \"Prince Harry\" (really an actor they tried to pass off as him) a wife. Meghan Markle was not a contestant."
     },
     {
@@ -11083,7 +11098,7 @@
       "id": 1541,
       "categoryId": 7,
       "subCategoryId": 50,
-      "title": "\"I am Error\"",
+      "title": "I am Error",
       "teaserText": "A line line said by a character in The Legend of Zelda 2.."
     },
     {
@@ -13204,7 +13219,7 @@
       "id": 1845,
       "categoryId": 9,
       "subCategoryId": 59,
-      "title": "Eddie \"The Eagle\" Edwards",
+      "title": "Eddie The Eagle Edwards",
       "teaserText": "A British sportsman famous for coming last in the 1988 Winter Olympics ski-jump competition."
     },
     {
@@ -14842,7 +14857,7 @@
       "id": 2079,
       "categoryId": 11,
       "subCategoryId": 65,
-      "title": "\"There's No One as Irish as Barack O'Bama\"",
+      "title": "There's No One as Irish as Barack O'Bama",
       "teaserText": "A 2008 song celebrating the Irish heritage of then-candidate for President of the United States Barack Obama."
     },
     {
@@ -16823,21 +16838,21 @@
       "id": 2362,
       "categoryId": 13,
       "subCategoryId": 72,
-      "title": "Operation \"Paul Bunyan\"",
+      "title": "Operation Paul Bunyan",
       "teaserText": "An entire operation by NATO. Over a tree."
     },
     {
       "id": 2363,
       "categoryId": 13,
       "subCategoryId": 72,
-      "title": "Operation \"Pig Bristle\"",
+      "title": "Operation Pig Bristle",
       "teaserText": "A daring air force operation to transport 25 tonnes of pig bristles from Chongqing in China to Hong Kong during the Chinese Civil War. The bristles were shipped to Australia to be made into paint brushes."
     },
     {
       "id": 2364,
       "categoryId": 13,
       "subCategoryId": 72,
-      "title": "Operation \"Tamarisk\"",
+      "title": "Operation Tamarisk",
       "teaserText": "Claimed to be the most successful intelligence operation in the Cold War; emptying supplies of Soviet Union toilet paper, forcing them to use documents, and retrieving these documents after use."
     },
     {
